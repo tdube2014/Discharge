@@ -1,5 +1,4 @@
-# This is a readme File
-# markdown-toc 
+# Discharge Document
 
 > Generate a markdown TOC (table of contents) with Remarkable.
 
