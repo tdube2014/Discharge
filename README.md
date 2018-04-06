@@ -58,7 +58,7 @@
 
 
 ## **Introduction** <a name="introduction"></a>
-This repository describes data collection (formats, storage,and QAQC), methods and Study locations for the environmental data Discharge/Flow
+This repository describes data collection (format, storage,and QAQC), methods and Study locations for the environmental data, Discharge/Flow
 
 ## **Stream Locations** <a name="paragraph1"></a>
 
@@ -254,9 +254,9 @@ This is a sub paragraph, formatted in heading 3 style
 
 
 
-#### Solenst <a name="subparagraph17"></a>
+#### Solinst <a name="subparagraph17"></a>
 
-[Solenst Logger pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
+[Solinst Logger pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
 
 
 #### Flow Cams <a name="subparagraph18"></a>
