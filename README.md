@@ -256,6 +256,10 @@ This is a sub paragraph, formatted in heading 3 style
 
 #### Solinst <a name="subparagraph17"></a>
 
+<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/Solinst%20Level%20Logger-Junior-DS.jpg" width="200" height="100" />
+
+
+
 [Solinst Logger pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
 
 
