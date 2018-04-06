@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="C:/Users/tdubreuil/Pictures/Discharge Document/WB 68 34.JPG" width="800" title="West Brook">
+  <img src="https://github.com/tdube2014/Discharge/blob/master/Avery.JPG" width="800" title="Avery Brook">
 </p>
 
 
