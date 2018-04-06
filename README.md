@@ -242,6 +242,10 @@ This is a sub paragraph, formatted in heading 3 style
 
 #### Onset <a name="subparagraph15"></a>
 
+<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/HOBO-U20-Water-Level-Data-Logger-U20-001-04.jpg" width="250" height="150" />
+
+
+
 [Onset pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
 
 #### In-Situ <a name="subparagraph16"></a>
