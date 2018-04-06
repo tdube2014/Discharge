@@ -248,7 +248,7 @@ This is a sub paragraph, formatted in heading 3 style
 
 <p>The Level TROLL 500 logs continuous measurements of water level, water pressure, and temperature. Titanium construction offers durability and long-lasting performance in fresh or saline groundwater environments. Available in vented (gauged) pressure ranges up to 1153 ft (351 m).<p> 
 
-<img src="C:\Users\tdubreuil\Pictures\Discharge Document/Level_TROLL_500_.jpg" width="300" height="300" />
+<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/Level_TROLL_500.jpg" width="300" height="300" />
 
 [Level Troll 500 pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
 
@@ -260,6 +260,8 @@ This is a sub paragraph, formatted in heading 3 style
 
 
 #### Flow Cams <a name="subparagraph18"></a>
+
+<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/Stream%20Cam%20119877C_1.jpg" width="300" height="300" />
 
 [Game Cam pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
 This is a sub paragraph, formatted in heading 3 style
