@@ -53,7 +53,7 @@
    
     
 5. [Dataloggers](#paragraph3)
-6. [Transect SOPs](#paragraph4)
+
 
 
 
@@ -236,7 +236,7 @@ The second paragraph text
 ### Download Schedule <a name="subparagraph12"></a>
 This is a sub paragraph, formatted in heading 3 style
 
-### Transects SOPs <a name="paragraph13"></a>
+### Transect SOPs <a name="subparagraph13"></a>
 The second paragraph text
 
 #### Equipment 
