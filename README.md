@@ -32,21 +32,25 @@
     
 3. [Discharge Data collection](#paragraph2)
 
-    1. [Download Schedule](#subparagraph11)
-    2. [Data storage](#subparagraph12)
-    3. [Data QA/QC](#subparagraph13)
-    4. [Transects](#subparagraph14)  
-    5. [Data Loggers](#subparagraph19)
+    1. [Download Schedule](#subparagraph12)
+    2. [Transect SOPs](#subparagraph13) 
+    3. [Data QA/QC](#subparagraph14)
+    4. [Data storage](#subparagraph15)
     
-        1.[Onset](#subparagraph15)
+
+ 
+
+    5. [Data Loggers](#subparagraph16)
+    
+        1.[Onset](#subparagraph17)
         
-        2.[In-Situ](#subparagraph16)
+        2.[In-Situ](#subparagraph18)
      
-        3.[Solenst](#subparagraph17)
+        3.[Solenst](#subparagraph19)
       
-        4.[Flow Cams](#subparagraph18)
+        4.[Flow Cams](#subparagraph20)
         
-    5. [Transects](#subparagraph19)
+   
     
 5. [Dataloggers](#paragraph3)
 6. [Transect SOPs](#paragraph4)
@@ -228,19 +232,52 @@ On Google Earth/maps Obear is labeled Ground Brook.
 ## **Discharge Data collection** <a name="paragraph2"></a>
 The second paragraph text
 
-### Download Schedule <a name="subparagraph11"></a>
+
+### Download Schedule <a name="subparagraph12"></a>
 This is a sub paragraph, formatted in heading 3 style
 
-### Data Storage <a name="subparagraph12"></a>
+### Transects SOPs <a name="paragraph13"></a>
+The second paragraph text
+
+#### Equipment 
++ Flow Meter 
+
++ Meter Stick
++ Measuring Tape 
++ Depth Chart
++ Data book Pencil
++ Waders
+
+
+
+
+#### Selecting a transect Site 
+
+Transect site should be in a free flowing run, straight with uniform unobstructed flow.
+There should not be any side channels so that all the water flows through the main channel. 
+Avoid pools
+ Do not select areas with areas where there is excess woody debris or large boulders. These characteristics can disturb flow creating turbulence eddies and slack water.
+Be conscious of how the flow is affected by tributaries and if you want that include in your measurement. 
+
+
+#### Recording Discharge Measurements
+
+1. Tighten a measuring tape across the stream at right angles to the flow. It should be taut and not sag in the middle.
+ 2. Measure the total stream width and record this measurement. 
+3. The standard method is to divide the width by 20, This will be done for brooks such as West Brook and Roaring Brook. Tribs  such as Mitchell, Obear and West Whatley will be measured every 10cm.
+ 4. Place Meter ( Rod held vertical, Meter directed into flow) at first measuring point. Always stand downstream of tape and measurement.
+5. Record the distance to the bank. Measure total stream depth and record this depth. If the stream Is less than 2.5 ft/.76m we will take the V measurement at .6 depth, deeper than 2.5ft/.76  the V measurement will be taken at .2 and .8 of depth. Repeat until you have completed transect. ( It is common to record three measurements at each point and then take the average.)
+
+### Data Storage <a name="subparagraph14"></a>
 This is a sub paragraph, formatted in heading 3 style
 
-### Data QA/QC <a name="subparagraph13"></a>
+### Data QA/QC <a name="subparagraph15"></a>
 This is a sub paragraph, formatted in heading 3 style
 
-### **Data Loggers** <a name="subparagraph14"></a>
+### **Data Loggers** <a name="subparagraph16"></a>
 This is a sub paragraph, formatted in heading 3 style
 
-#### Onset <a name="subparagraph15"></a>
+#### Onset <a name="subparagraph17"></a>
 
 <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/HOBO-U20-Water-Level-Data-Logger-U20-001-04.jpg" width="250" height="150" />
 
@@ -248,7 +285,7 @@ This is a sub paragraph, formatted in heading 3 style
 
 [Onset pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
 
-#### In-Situ <a name="subparagraph16"></a>
+#### In-Situ <a name="subparagraph18"></a>
 
 <p>The Level TROLL 500 logs continuous measurements of water level, water pressure, and temperature. Titanium construction offers durability and long-lasting performance in fresh or saline groundwater environments. Available in vented (gauged) pressure ranges up to 1153 ft (351 m).<p> 
 
@@ -258,7 +295,7 @@ This is a sub paragraph, formatted in heading 3 style
 
 
 
-#### Solinst <a name="subparagraph17"></a>
+#### Solinst <a name="subparagraph19"></a>
 
 <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/Solinst%20Level%20Logger-Junior-DS.jpg" width="200" height="100" />
 
@@ -267,21 +304,15 @@ This is a sub paragraph, formatted in heading 3 style
 [Solinst Logger pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
 
 
-#### Flow Cams <a name="subparagraph18"></a>
+#### Flow Cams <a name="subparagraph20"></a>
 
 <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/Stream%20Cam%20119877C_1.jpg" width="300" height="300" />
 
 [Game Cam pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
 This is a sub paragraph, formatted in heading 3 style
 
-## **Transects** <a name="subparagraph19"></a>
-The second paragraph text
 
-## Dataloggers <a name="paragraph4"></a>
-The second paragraph text
 
-## Transects SOPs <a name="paragraph5"></a>
-The second paragraph text
 
 
 [Level Troll 500 pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
