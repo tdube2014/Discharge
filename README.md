@@ -301,7 +301,7 @@ This is a sub paragraph, formatted in heading 3 style
 
 
 
-[Solinst Logger pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
+[Solinst Logger pdf](https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/3001-user-guide.pdf)
 
 
 #### Flow Cams <a name="subparagraph20"></a>
