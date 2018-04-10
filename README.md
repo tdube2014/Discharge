@@ -76,7 +76,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
     - [Pond Brook](https://github.com/tdube2014/Discharge/blob/master/Pond%20Brook.jpg) _Google earth image with study site marked out_
     - [Pond Brook Virtual](https://earth.google.com/web/@42.54169389,-72.52916484,77.13338182a,858.30646247d,35y,-0h,0t,0r) _LInk to google Earth_
     
-+ Elavation
++ Elevation
     - 203 ft
 + Discharge Measurement Method
     - Transects
@@ -89,7 +89,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
     - [West Whatley](https://github.com/tdube2014/Discharge/blob/master/West%20Whatley%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [West Whatley Virtual](https://earth.google.com/web/@42.46125586,-72.68963205,235.23846823a,3802.45316621d,35y,0h,0t,0r)  _LInk to google Earth_
     
-+ Elavation
++ Elevation
     - 710 ft
 + Discharge Measurement Method
     - Transects
@@ -104,7 +104,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
     - [Sanderson](https://github.com/tdube2014/Discharge/blob/master/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Sanderson Virtual](https://earth.google.com/web/@42.43712866,-72.68623953,207.65527677a,679.42286314d,35y,0h,0t,0r)  _LInk to google Earth_
     
-+ Elavation
++ Elevation
     - 617 ft
 + Discharge Measurement Method
     - Transects
@@ -118,7 +118,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
     - [Upper Sanderson](https://github.com/tdube2014/Discharge/blob/master/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Upper Sanderson Virtual](https://earth.google.com/web/@42.43712866,-72.68623953,207.65527677a,679.42286314d,35y,0h,0t,0r)  _LInk to google Earth_
     
-+ Elavation
++ Elevation
     - 620 ft
 + Discharge Measurement Method
     - Transects
@@ -135,7 +135,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [upper Obear](https://github.com/tdube2014/Discharge/blob/master/Obear%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Upper Obear Virtual](https://earth.google.com/web/@42.43341862,-72.6780941,183.5252371a,1486.12773821d,35y,12.39177316h,0t,0)  _LInk to google Earth_
     
-+ Elavation
++ Elevation
     - 615 ft
 + Discharge Measurement Method
     - Transects
@@ -151,7 +151,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [Roaring Brook](https://github.com/tdube2014/Discharge/blob/master/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Roaring bRook Virtual](https://earth.google.com/web/@42.23863562,-72.85076745,215.67079346a,752.95555861d,35y,46.38134956h,0.13622574t,-0r)  _LInk to google Earth_
     
-+ Elavation
++ Elevation
     - 529 ft
 + Discharge Measurement Method
     - Transects
@@ -165,7 +165,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [Four Mile](https://github.com/tdube2014/Discharge/blob/master/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Four Mile Virtual](https://earth.google.com/web/@42.62585853,-72.46686453,128.59308485a,3790.36706796d,35y,20.79310042h,0.12809756t,0r)  _LInk to google Earth_
     
-+ Elavation
++ Elevation
     - 391 ft
 + Discharge Measurement Method
     - Transects
@@ -178,7 +178,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [West Brook](https://github.com/tdube2014/Discharge/blob/master/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [West Brook Virtual](https://earth.google.com/web/@42.43328879,-72.66589853,138.46171818a,974.86929826d,35y,10.22475928h,0.26815088t,-0r)  _LInk to google Earth_
     
-+ Elavation
++ Elevation
     - 411 ft
 + Discharge Measurement Method
     - Transects
@@ -194,7 +194,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [Obear](https://github.com/tdube2014/Discharge/blob/master/Obear%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Obear Virtual](https://earth.google.com/web/@42.43341862,-72.6780941,183.5252371a,1486.12773821d,35y,12.39177316h,0t,0)  _LInk to google Earth_
     
-+ Elavation
++ Elevation
     - 539 ft
 + Discharge Measurement Method
     - Transects
@@ -208,7 +208,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [Jimmy](https://github.com/tdube2014/Discharge/blob/master/JImmy%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Jimmy Virtual](https://earth.google.com/web/@42.43657275,-72.67089559,166.34894806a,946.98182528d,35y,10.22138767h,0.26814971t,0r)  _LInk to google Earth_
     
-+ Elavation
++ Elevation
     - 456 ft
 + Discharge Measurement Method
     - Transects
@@ -222,7 +222,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [Mitchell Brook](https://github.com/tdube2014/Discharge/blob/master/Mitchell%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [MItchell Brook Virtual](https://earth.google.com/web/@42.43970464,-72.66825028,193.0077318a,3340.35339468d,35y,4.92018235h,0.11517627t,-0r)  _LInk to google Earth_
     
-+ Elavation
++ Elevation
     - 456 ft
 + Discharge Measurement Method
     - Transects
@@ -256,18 +256,16 @@ The second paragraph text
 
 Transect site should be in a free flowing run, straight with uniform unobstructed flow.
 There should not be any side channels so that all the water flows through the main channel. 
-Avoid pools
- Do not select areas with areas where there is excess woody debris or large boulders. These characteristics can disturb flow creating turbulence eddies and slack water.
-Be conscious of how the flow is affected by tributaries and if you want that include in your measurement. 
+Avoid pools, do not select areas with areas where there is excess woody debris or large boulders. These characteristics can disturb flow creating turbulence eddies and slack water. Be conscious of how the flow is affected by tributaries and if you want that include in your measurement. 
 
 
 #### Recording Discharge Measurements
 
 1. Tighten a measuring tape across the stream at right angles to the flow. It should be taut and not sag in the middle.
- 2. Measure the total stream width and record this measurement. 
+2. Measure the total stream width and record this measurement. 
 3. The standard method is to divide the width by 20, This will be done for brooks such as West Brook and Roaring Brook. Tribs  such as Mitchell, Obear and West Whatley will be measured every 10cm.
- 4. Place Meter ( Rod held vertical, Meter directed into flow) at first measuring point. Always stand downstream of tape and measurement.
-5. Record the distance to the bank. Measure total stream depth and record this depth. If the stream Is less than 2.5 ft/.76m we will take the V measurement at .6 depth, deeper than 2.5ft/.76  the V measurement will be taken at .2 and .8 of depth. Repeat until you have completed transect. ( It is common to record three measurements at each point and then take the average.)
+4. Place Meter ( Rod held vertical, Meter directed into flow) at first measuring point. Always stand downstream of tape and measurement.
+5. Record the distance to the bank. Measure total stream depth and record this depth. If the stream Is less than 2.5 ft/.76m we will take the V measurement at .6 depth, deeper than 2.5ft/.76 the V measurement will be taken at .2 and .8 of depth [(Discharge Measurement Heights.xlsx)](https://github.com/tdube2014/Discharge/blob/master/Data/Discharge%20Measurement%20Heights.xlsx). Repeat until you have completed transect. (It is common to record three measurements at each point and then take the average.)
 
 ### Data Storage <a name="subparagraph14"></a>
 This is a sub paragraph, formatted in heading 3 style
