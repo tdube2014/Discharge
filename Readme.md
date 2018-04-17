@@ -124,7 +124,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 
 + GPS  42°14'15.44"N  72°50'56.35"W
     - [Roaring Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
-    - [Roaring bRook Virtual](https://earth.google.com/web/@42.23863562,-72.85076745,215.67079346a,752.95555861d,35y,46.38134956h,0.13622574t,-0r)  _LInk to google Earth_
+    - [Roaring Brook Virtual](https://earth.google.com/web/@42.23863562,-72.85076745,215.67079346a,752.95555861d,35y,46.38134956h,0.13622574t,-0r)  _LInk to google Earth_
     
 + Elevation
     - 529 ft
@@ -284,7 +284,13 @@ Avoid pools, do not select areas with areas where there is excess woody debris o
 
 #### Introduction
 
+<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Flow%20Cam/Images/119876C_1.jpg" width="150" height="150" />
+
+
+
 We are exploring the usefulness of digital photos as a affordable method of assessing stream flow.  In streams where we have generated a accurate stage discharge relationship we can create a digital library of staff gauge height that can be used to accurately calculate flow. Cameras that range from $70 could be a useful method of data collection in contrast to $300 dollar and up level loggers.  Thus allowing form collection of data in more stream locations.
+
+
 
 #### Methods
 
@@ -323,29 +329,29 @@ This is a sub paragraph, formatted in heading 3 style
 
 #### Onset <a name="subparagraph17"></a>
 
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/HOBO-U20-Water-Level-Data-Logger-U20-001-04.jpg" width="250" height="150" />
+<img src="HOBO-U20-Water-Level-Data-Logger-U20-001-02.jpg" width="250" height="150" />
 
+<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/Onset%20HOBO%20U20-001-01-TI/Images/Onset%20Level%20Logger%20Housings.jpg" />
 
-
-[Onset pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
+ [Onset pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
 
 #### In-Situ <a name="subparagraph18"></a>
 
 <p>The Level TROLL 500 logs continuous measurements of water level, water pressure, and temperature. Titanium construction offers durability and long-lasting performance in fresh or saline groundwater environments. Available in vented (gauged) pressure ranges up to 1153 ft (351 m).<p> 
 
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/Level_TROLL_500.jpg" width="300" height="300" />
+<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="300" height="300" />
 
-[Level Troll 500 pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
+[Level Troll 500 pdf](https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Documentation/Level-TROLL-400-500-700-700h_Manual.pdf)
 
 
 
 #### Solinst <a name="subparagraph19"></a>
 
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/Solinst%20Level%20Logger-Junior-DS.jpg" width="200" height="100" />
+<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="200" height="100" />
 
 
 
-[Solinst Logger pdf](https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/3001-user-guide.pdf)
+[Solinst Logger pdf](https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Documentation/Level-TROLL-400-500-700-700h_Manual.pdf)
 
 
 ### Flow Cams <a name="subparagraph20"></a>
