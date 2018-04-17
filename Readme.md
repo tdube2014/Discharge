@@ -304,6 +304,23 @@ This is a sub paragraph, formatted in heading 3 style
 
 #### Flow Cams <a name="subparagraph20"></a>
 
+
+
+Introduction
+
+We are exploring the usefulness of digital photos as a affordable method of assessing stream flow.  In streams where we have generated a accurate stage discharge relationship we can create a digital library of staff gauge height that can be used to accurately calculate flow. Cameras that range from $70 could be a useful method of data collection in contrast to $300 dollar and up level loggers.  Thus allowing form collection of data in more stream locations.
+
+Methods
+
++ Establish a location for discharge data collection as described in Discharge Data Collection SOPs
+
++ Install camera so that you can record clear digital photos of satff gauge height.
+
++ Generate a staff discharge rating curve
+
++ Collect digital Photos 
+
+
 <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/Stream%20Cam%20119877C_1.jpg" width="300" height="300" />
 
 [Game Cam pdf](https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/119874C-119875C-119876C-119877C-Trophy-Cam-HD-Aggressor.pdf)
