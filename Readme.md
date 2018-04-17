@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/tdube2014/Discharge/blob/master/Avery.JPG" width="800" title="Avery Brook">
+  <img src="https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Avery.JPG" width="800" title="Avery Brook">
 </p>
 
 
@@ -74,7 +74,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
     - Montague MA
 
 + GPS  42°32'23.25"N 72°31'57.67"W
-    - [Pond Brook](https://github.com/tdube2014/Discharge/blob/master/Pond%20Brook.jpg) _Google earth image with study site marked out_
+    - [Pond Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Pond%20Brook.jpg) _Google earth image with study site marked out_
     - [Pond Brook Virtual](https://earth.google.com/web/@42.54169389,-72.52916484,77.13338182a,858.30646247d,35y,-0h,0t,0r) _LInk to google Earth_
     
 + Elevation
