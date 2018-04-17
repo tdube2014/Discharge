@@ -284,7 +284,7 @@ We are exploring the usefulness of digital photos as a affordable method of asse
 
 + Collect digital Photos 
 
-## **Flow Cam Time lapse Discharge Data Collection** <a name="paragraph4"></a>
+## **Flow Cam: Time Lapse Discharge Data Collection** <a name="paragraph4"></a>
 
 #### Introduction
 
