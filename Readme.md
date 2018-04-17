@@ -17,17 +17,18 @@
 
 2. [Stream Locations](#paragraph1)
 
-    1. [Pond Brook](#subparagraph1)
-    2. [West Whatley Brook](#subparagraph2)
-    3. [Sanderson Brook](#subparagraph3)
-    4. [Upper Sanderson Brook](#subparagraph4)
-    5. [Upper Obear Brook](#subparagraph5)
-    6. [Roaring Brook ](#subparagraph6)
-    7. [4 Mile Brook](#subparagraph7)
+    1. [Four Mile Brook](#subparagraph1)
+    2. [Upper Obear Brook](#subparagraph2)
+    3. [Pond Brook](#subparagraph3)
+    4. [Roaring Brook](#subparagraph4)      
+    5. [Sanderson Brook](#subparagraph5) 
+    6. [Upper Sanderson Brook ](#subparagraph6)
+    7. [West Whatley Brook](#subparagraph7)
     8. [West Brook Brook ](#subparagraph8)
-    9. [Obear Brook](#subparagraph9)
-    10. [Jimmy Brook ](#subparagraph10)
-    11. [Mitchell Brook ](#subparagraph11)
+    9. [Jimmy Brook OL](#subparagraph9)
+    10. [Mitchell Brook OS](#subparagraph10)
+    11. [Obear Brook IS](#subparagraph11)
+    
     
     
 3. [Discharge Data collection](#paragraph2)
@@ -69,66 +70,22 @@ This repository describes data collection (format, storage,and QAQC), methods an
 ## **Stream Locations** <a name="paragraph1"></a>
 
 
-### Pond Brook <a name="subparagraph1"></a>
-+ Location
-    - Montague MA
+### Four Mile Brook <a name="subparagraph1"></a>
 
-+ GPS  42°32'23.25"N 72°31'57.67"W
-    - [Pond Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Pond%20Brook.jpg) _Google earth image with study site marked out_
-    - [Pond Brook Virtual](https://earth.google.com/web/@42.54169389,-72.52916484,77.13338182a,858.30646247d,35y,-0h,0t,0r) _LInk to google Earth_
++ GPS   42°37'19.94"N  72°27'30.76"W
+    - [Four Mile](https://github.com/tdube2014/Discharge/blob/master/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [Four Mile Virtual](https://earth.google.com/web/@42.62585853,-72.46686453,128.59308485a,3790.36706796d,35y,20.79310042h,0.12809756t,0r)  _LInk to google Earth_
     
 + Elevation
-    - 203 ft
+    - 391 ft
 + Discharge Measurement Method
     - Transects
     - Onset Level Logger
 + Study
     - YOY development
-
-### West Whatley Brook <a name="subparagraph2"></a>
-+ GPS   42°27'33.47"N  72°40'55.73"W
-    - [West Whatley](https://github.com/tdube2014/Discharge/blob/master/West%20Whatley%20Study%20Site.jpg)  _Google earth image with study site marked out_
-    - [West Whatley Virtual](https://earth.google.com/web/@42.46125586,-72.68963205,235.23846823a,3802.45316621d,35y,0h,0t,0r)  _LInk to google Earth_
     
-+ Elevation
-    - 710 ft
-+ Discharge Measurement Method
-    - Transects
-    - Onset Level Logger
-+ Study
-    - YOY development
 
- 
-
-### Sanderson <a name="subparagraph3"></a>
-+ GPS   42°26'7.57"N  72°41'0.49"W
-    - [Sanderson](https://github.com/tdube2014/Discharge/blob/master/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
-    - [Sanderson Virtual](https://earth.google.com/web/@42.43712866,-72.68623953,207.65527677a,679.42286314d,35y,0h,0t,0r)  _LInk to google Earth_
-    
-+ Elevation
-    - 617 ft
-+ Discharge Measurement Method
-    - Transects
-    - Onset Level Logger
-+ Study
-    - YOY development
-
-
-### Upper Sanderson Brook <a name="subparagraph4"></a>
-+ GPS  42°26'7.57"N  72°41'0.49"W
-    - [Upper Sanderson](https://github.com/tdube2014/Discharge/blob/master/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
-    - [Upper Sanderson Virtual](https://earth.google.com/web/@42.43712866,-72.68623953,207.65527677a,679.42286314d,35y,0h,0t,0r)  _LInk to google Earth_
-    
-+ Elevation
-    - 620 ft
-+ Discharge Measurement Method
-    - Transects
-    - Onset Level Logger
-+ Study
-    - YOY development
-
-
-### Upper Obear Brook <a name="subparagraph5"></a>
+### Upper Obear Brook <a name="subparagraph2"></a>
 
 On Google Earth/maps Obear is labeled Ground Brook.
 
@@ -145,8 +102,69 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development
     
+    
+    
+### Pond Brook <a name="subparagraph3"></a>
++ Location
+    - Montague MA
+
++ GPS  42°32'23.25"N 72°31'57.67"W
+    - [Pond Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Pond%20Brook.jpg) _Google earth image with study site marked out_
+    - [Pond Brook Virtual](https://earth.google.com/web/@42.54169389,-72.52916484,77.13338182a,858.30646247d,35y,-0h,0t,0r) _LInk to google Earth_
+    
++ Elevation
+    - 203 ft
++ Discharge Measurement Method
+    - Transects
+    - Onset Level Logger
++ Study
+    - YOY development
+    
+ 
+### Sanderson <a name="subparagraph4"></a>
++ GPS   42°26'7.57"N  72°41'0.49"W
+    - [Sanderson](https://github.com/tdube2014/Discharge/blob/master/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [Sanderson Virtual](https://earth.google.com/web/@42.43712866,-72.68623953,207.65527677a,679.42286314d,35y,0h,0t,0r)  _LInk to google Earth_
+    
++ Elevation
+    - 617 ft
++ Discharge Measurement Method
+    - Transects
+    - Onset Level Logger
++ Study
+    - YOY development
+    
+    
+ ### Upper Sanderson Brook <a name="subparagraph5"></a>
++ GPS  42°26'7.57"N  72°41'0.49"W
+    - [Upper Sanderson](https://github.com/tdube2014/Discharge/blob/master/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [Upper Sanderson Virtual](https://earth.google.com/web/@42.43712866,-72.68623953,207.65527677a,679.42286314d,35y,0h,0t,0r)  _LInk to google Earth_
+    
++ Elevation
+    - 620 ft
++ Discharge Measurement Method
+    - Transects
+    - Onset Level Logger
++ Study
+    - YOY development   
+
+### West Whatley Brook <a name="subparagraph6"></a>
++ GPS   42°27'33.47"N  72°40'55.73"W
+    - [West Whatley](https://github.com/tdube2014/Discharge/blob/master/West%20Whatley%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [West Whatley Virtual](https://earth.google.com/web/@42.46125586,-72.68963205,235.23846823a,3802.45316621d,35y,0h,0t,0r)  _LInk to google Earth_
+    
++ Elevation
+    - 710 ft
++ Discharge Measurement Method
+    - Transects
+    - Onset Level Logger
++ Study
+    - YOY development
+
+ 
+    
      
-### Roaring Brook  <a name="subparagraph6"></a>
+### Roaring Brook  <a name="subparagraph7"></a>
 
 + GPS  42°14'15.44"N  72°50'56.35"W
     - [Roaring Brook](https://github.com/tdube2014/Discharge/blob/master/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
@@ -160,20 +178,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development
 
-### 4 Mile Brook <a name="subparagraph7"></a>
 
-+ GPS   42°37'19.94"N  72°27'30.76"W
-    - [Four Mile](https://github.com/tdube2014/Discharge/blob/master/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
-    - [Four Mile Virtual](https://earth.google.com/web/@42.62585853,-72.46686453,128.59308485a,3790.36706796d,35y,20.79310042h,0.12809756t,0r)  _LInk to google Earth_
-    
-+ Elevation
-    - 391 ft
-+ Discharge Measurement Method
-    - Transects
-    - Onset Level Logger
-+ Study
-    - YOY development
-    
 ### West Brook Brook <a name="subparagraph8"></a>
 + GPS   42°25'51.99"N  72°39'50.58"W
     - [West Brook](https://github.com/tdube2014/Discharge/blob/master/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
@@ -186,8 +191,38 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - Onset Level Logger
 + Study
     - YOY development
+    
+    
 
-### Obear Brook <a name="subparagraph9"></a>
+### Jimmy Brook OL<a name="subparagraph9"></a>
++ GPS   42°26'4.48"N  72°40'14.39"W
+
+    - [Jimmy](https://github.com/tdube2014/Discharge/blob/master/JImmy%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [Jimmy Virtual](https://earth.google.com/web/@42.43657275,-72.67089559,166.34894806a,946.98182528d,35y,10.22138767h,0.26814971t,0r)  _LInk to google Earth_
+    
++ Elevation
+    - 456 ft
++ Discharge Measurement Method
+    - Transects
+    - Solenst Level Logger
++ Study
+    - YOY development    
+    
+ ### Mitchell OS<a name="subparagraph10"></a> 
++ GPS    42°26'0.29"N 72°40'5.97"W
+
+    - [Mitchell Brook](https://github.com/tdube2014/Discharge/blob/master/Mitchell%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [MItchell Brook Virtual](https://earth.google.com/web/@42.43970464,-72.66825028,193.0077318a,3340.35339468d,35y,4.92018235h,0.11517627t,-0r)  _LInk to google Earth_
+    
++ Elevation
+    - 456 ft
++ Discharge Measurement Method
+    - Transects
+    - Solenst Level Logger
++ Study
+    - YOY development   
+
+### Obear Brook IS<a name="subparagraph11"></a>
 
 On Google Earth/maps Obear is labeled Ground Brook.
 
@@ -203,33 +238,8 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development
 
-### Jimmy Brook <a name="subparagraph10"></a>
-+ GPS   42°26'4.48"N  72°40'14.39"W
 
-    - [Jimmy](https://github.com/tdube2014/Discharge/blob/master/JImmy%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
-    - [Jimmy Virtual](https://earth.google.com/web/@42.43657275,-72.67089559,166.34894806a,946.98182528d,35y,10.22138767h,0.26814971t,0r)  _LInk to google Earth_
-    
-+ Elevation
-    - 456 ft
-+ Discharge Measurement Method
-    - Transects
-    - Solenst Level Logger
-+ Study
-    - YOY development
 
-### Mitchell <a name="subparagraph11"></a> 
-+ GPS    42°26'0.29"N 72°40'5.97"W
-
-    - [Mitchell Brook](https://github.com/tdube2014/Discharge/blob/master/Mitchell%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
-    - [MItchell Brook Virtual](https://earth.google.com/web/@42.43970464,-72.66825028,193.0077318a,3340.35339468d,35y,4.92018235h,0.11517627t,-0r)  _LInk to google Earth_
-    
-+ Elevation
-    - 456 ft
-+ Discharge Measurement Method
-    - Transects
-    - Solenst Level Logger
-+ Study
-    - YOY development
 
 ## **Discharge Data collection** <a name="paragraph2"></a>
 The second paragraph text
