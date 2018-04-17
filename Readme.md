@@ -302,15 +302,15 @@ This is a sub paragraph, formatted in heading 3 style
 [Solinst Logger pdf](https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/3001-user-guide.pdf)
 
 
-#### Flow Cams <a name="subparagraph20"></a>
+### Flow Cams <a name="subparagraph20"></a>
 
 
 
-Introduction
+#### Introduction
 
 We are exploring the usefulness of digital photos as a affordable method of assessing stream flow.  In streams where we have generated a accurate stage discharge relationship we can create a digital library of staff gauge height that can be used to accurately calculate flow. Cameras that range from $70 could be a useful method of data collection in contrast to $300 dollar and up level loggers.  Thus allowing form collection of data in more stream locations.
 
-Methods
+#### Methods
 
 + Establish a location for discharge data collection as described in Discharge Data Collection SOPs
 
