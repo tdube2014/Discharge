@@ -37,7 +37,7 @@
     3. [Data QA/QC](#subparagraph14)
     4. [Data storage](#subparagraph15)
     
-
+4. [Flow Cam Discharge Data collection](#paragraph3)
  
 
     5. [Data Loggers](#subparagraph16)
@@ -52,7 +52,7 @@
         
    
     
-5. [Flow Cam](#paragraph3)
+
 
 
 
