@@ -329,7 +329,7 @@ This is a sub paragraph, formatted in heading 3 style
 
 #### Onset <a name="subparagraph17"></a>
 
-<img src="HOBO-U20-Water-Level-Data-Logger-U20-001-02.jpg" width="250" height="150" />
+
 
 <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/Onset%20HOBO%20U20-001-01-TI/Images/HOBO-U20-Water-Level-Data-Logger-U20-001-02.jpg"  width="250" height="150"/>
 
@@ -385,4 +385,4 @@ This is a sub paragraph, formatted in heading 3 style
 [Level Troll 500 pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
 
 
-
+<img src="HOBO-U20-Water-Level-Data-Logger-U20-001-02.jpg" width="250" height="150" />
