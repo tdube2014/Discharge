@@ -90,7 +90,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
 On Google Earth/maps Obear is labeled Ground Brook.
 
 + GPS 42°25'55.08"N  72°40'40.94"W
-    - [upper Obear](https://github.com/tdube2014/Discharge/blob/master/Obear%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [upper Obear](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Obear%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Upper Obear Virtual](https://earth.google.com/web/@42.43341862,-72.6780941,183.5252371a,1486.12773821d,35y,12.39177316h,0t,0)  _LInk to google Earth_
     
 + Elevation
@@ -123,7 +123,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
  ### Roaring Brook  <a name="subparagraph4"></a>
 
 + GPS  42°14'15.44"N  72°50'56.35"W
-    - [Roaring Brook](https://github.com/tdube2014/Discharge/blob/master/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [Roaring Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Roaring bRook Virtual](https://earth.google.com/web/@42.23863562,-72.85076745,215.67079346a,752.95555861d,35y,46.38134956h,0.13622574t,-0r)  _LInk to google Earth_
     
 + Elevation
@@ -137,7 +137,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
  
 ### Sanderson <a name="subparagraph5"></a>
 + GPS   42°26'7.57"N  72°41'0.49"W
-    - [Sanderson](https://github.com/tdube2014/Discharge/blob/master/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [Sanderson](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Sanderson Virtual](https://earth.google.com/web/@42.43712866,-72.68623953,207.65527677a,679.42286314d,35y,0h,0t,0r)  _LInk to google Earth_
     
 + Elevation
@@ -151,7 +151,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     
  ### Upper Sanderson Brook <a name="subparagraph6"></a>
 + GPS  42°26'7.57"N  72°41'0.49"W
-    - [Upper Sanderson](https://github.com/tdube2014/Discharge/blob/master/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [Upper Sanderson](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Upper Sanderson Virtual](https://earth.google.com/web/@42.43712866,-72.68623953,207.65527677a,679.42286314d,35y,0h,0t,0r)  _LInk to google Earth_
     
 + Elevation
@@ -164,7 +164,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 
 ### West Whatley Brook <a name="subparagraph7"></a>
 + GPS   42°27'33.47"N  72°40'55.73"W
-    - [West Whatley](https://github.com/tdube2014/Discharge/blob/master/West%20Whatley%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [West Whatley](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Whatley%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [West Whatley Virtual](https://earth.google.com/web/@42.46125586,-72.68963205,235.23846823a,3802.45316621d,35y,0h,0t,0r)  _LInk to google Earth_
     
 + Elevation
@@ -183,7 +183,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 
 ### West Brook Brook <a name="subparagraph8"></a>
 + GPS   42°25'51.99"N  72°39'50.58"W
-    - [West Brook](https://github.com/tdube2014/Discharge/blob/master/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [West Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [West Brook Virtual](https://earth.google.com/web/@42.43328879,-72.66589853,138.46171818a,974.86929826d,35y,10.22475928h,0.26815088t,-0r)  _LInk to google Earth_
     
 + Elevation
@@ -199,7 +199,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 ### Jimmy Brook OL<a name="subparagraph9"></a>
 + GPS   42°26'4.48"N  72°40'14.39"W
 
-    - [Jimmy](https://github.com/tdube2014/Discharge/blob/master/JImmy%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [Jimmy](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/JImmy%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Jimmy Virtual](https://earth.google.com/web/@42.43657275,-72.67089559,166.34894806a,946.98182528d,35y,10.22138767h,0.26814971t,0r)  _LInk to google Earth_
     
 + Elevation
@@ -213,7 +213,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
  ### Mitchell OS<a name="subparagraph10"></a> 
 + GPS    42°26'0.29"N 72°40'5.97"W
 
-    - [Mitchell Brook](https://github.com/tdube2014/Discharge/blob/master/Mitchell%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [Mitchell Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Mitchell%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [MItchell Brook Virtual](https://earth.google.com/web/@42.43970464,-72.66825028,193.0077318a,3340.35339468d,35y,4.92018235h,0.11517627t,-0r)  _LInk to google Earth_
     
 + Elevation
@@ -229,7 +229,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 On Google Earth/maps Obear is labeled Ground Brook.
 
 + GPS   42°26'1.84"N  72°40'19.99"W
-    - [Obear](https://github.com/tdube2014/Discharge/blob/master/Obear%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [Obear](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Obear%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Obear Virtual](https://earth.google.com/web/@42.43341862,-72.6780941,183.5252371a,1486.12773821d,35y,12.39177316h,0t,0)  _LInk to google Earth_
     
 + Elevation
