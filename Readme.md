@@ -266,6 +266,22 @@ Avoid pools, do not select areas with areas where there is excess woody debris o
 4. Place Meter ( Rod held vertical, Meter directed into flow) at first measuring point. Always stand downstream of tape and measurement.
 5. Record the distance to the bank. Measure total stream depth and record this depth. If the stream Is less than 2.5 ft/.76m we will take the V measurement at .6 depth, deeper than 2.5ft/.76 the V measurement will be taken at .2 and .8 of depth [(Discharge Measurement Heights.xlsx)](https://github.com/tdube2014/Discharge/blob/master/Data/Discharge%20Measurement%20Heights.xlsx). Repeat until you have completed transect. (It is common to record three measurements at each point and then take the average.)
 
+## **Flow Cam Discharge Data collection** <a name="paragraph3"></a>
+
+#### Introduction
+
+We are exploring the usefulness of digital photos as a affordable method of assessing stream flow.  In streams where we have generated a accurate stage discharge relationship we can create a digital library of staff gauge height that can be used to accurately calculate flow. Cameras that range from $70 could be a useful method of data collection in contrast to $300 dollar and up level loggers.  Thus allowing form collection of data in more stream locations.
+
+#### Methods
+
++ Establish a location for discharge data collection as described in Discharge Data Collection SOPs
+
++ Install camera so that you can record clear digital photos of satff gauge height.
+
++ Generate a staff discharge rating curve
+
++ Collect digital Photos 
+
 ### Data Storage <a name="subparagraph14"></a>
 This is a sub paragraph, formatted in heading 3 style
 
@@ -334,4 +350,3 @@ This is a sub paragraph, formatted in heading 3 style
 
 
 
-## **Flow Cam** <a name="paragraph3"></a>
