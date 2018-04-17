@@ -38,6 +38,8 @@
     4. [Data storage](#subparagraph15)
     
 4. [Flow Cam Discharge Data collection](#paragraph3)
+
+5. [Flow Cam Time Lapse Discharge Data collection](#paragraph4)
  
 
     5. [Data Loggers](#subparagraph16)
@@ -281,6 +283,8 @@ We are exploring the usefulness of digital photos as a affordable method of asse
 + Generate a staff discharge rating curve
 
 + Collect digital Photos 
+
+## **Flow Cam Time lapse Discharge Data Collection** <a name="paragraph4"></a>
 
 ### Data Storage <a name="subparagraph14"></a>
 This is a sub paragraph, formatted in heading 3 style
