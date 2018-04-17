@@ -120,8 +120,22 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development
     
+ ### Roaring Brook  <a name="subparagraph4"></a>
+
++ GPS  42°14'15.44"N  72°50'56.35"W
+    - [Roaring Brook](https://github.com/tdube2014/Discharge/blob/master/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [Roaring bRook Virtual](https://earth.google.com/web/@42.23863562,-72.85076745,215.67079346a,752.95555861d,35y,46.38134956h,0.13622574t,-0r)  _LInk to google Earth_
+    
++ Elevation
+    - 529 ft
++ Discharge Measurement Method
+    - Transects
+    - Onset Level Logger
++ Study
+    - YOY development   
+    
  
-### Sanderson <a name="subparagraph4"></a>
+### Sanderson <a name="subparagraph5"></a>
 + GPS   42°26'7.57"N  72°41'0.49"W
     - [Sanderson](https://github.com/tdube2014/Discharge/blob/master/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Sanderson Virtual](https://earth.google.com/web/@42.43712866,-72.68623953,207.65527677a,679.42286314d,35y,0h,0t,0r)  _LInk to google Earth_
@@ -135,7 +149,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - YOY development
     
     
- ### Upper Sanderson Brook <a name="subparagraph5"></a>
+ ### Upper Sanderson Brook <a name="subparagraph6"></a>
 + GPS  42°26'7.57"N  72°41'0.49"W
     - [Upper Sanderson](https://github.com/tdube2014/Discharge/blob/master/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Upper Sanderson Virtual](https://earth.google.com/web/@42.43712866,-72.68623953,207.65527677a,679.42286314d,35y,0h,0t,0r)  _LInk to google Earth_
@@ -148,7 +162,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development   
 
-### West Whatley Brook <a name="subparagraph6"></a>
+### West Whatley Brook <a name="subparagraph7"></a>
 + GPS   42°27'33.47"N  72°40'55.73"W
     - [West Whatley](https://github.com/tdube2014/Discharge/blob/master/West%20Whatley%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [West Whatley Virtual](https://earth.google.com/web/@42.46125586,-72.68963205,235.23846823a,3802.45316621d,35y,0h,0t,0r)  _LInk to google Earth_
@@ -164,19 +178,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
  
     
      
-### Roaring Brook  <a name="subparagraph7"></a>
 
-+ GPS  42°14'15.44"N  72°50'56.35"W
-    - [Roaring Brook](https://github.com/tdube2014/Discharge/blob/master/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
-    - [Roaring bRook Virtual](https://earth.google.com/web/@42.23863562,-72.85076745,215.67079346a,752.95555861d,35y,46.38134956h,0.13622574t,-0r)  _LInk to google Earth_
-    
-+ Elevation
-    - 529 ft
-+ Discharge Measurement Method
-    - Transects
-    - Onset Level Logger
-+ Study
-    - YOY development
 
 
 ### West Brook Brook <a name="subparagraph8"></a>
