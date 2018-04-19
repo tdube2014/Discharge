@@ -268,8 +268,8 @@ The second paragraph text
 #### Selecting a transect Site 
 
 Transect site should be in a free flowing run, straight with uniform unobstructed flow.
-There should not be any side channels so that all the water flows through the main channel. 
-Avoid pools, do not select areas with areas where there is excess woody debris or large boulders. These characteristics can disturb flow creating turbulence eddies and slack water. Be conscious of how the flow is affected by tributaries and if you want that include in your measurement. 
+There should not be any side channels, so that all the water flows through the main channel. 
+Avoid pools, do not select areas where there is excess woody debris or large boulders. These characteristics can disturb flow creating turbulence, eddies and slack water. Be conscious of how the flow is affected by tributaries and if you want that include tributary discharge in your measurement. 
 
 
 #### Recording Discharge Measurements
