@@ -17,41 +17,42 @@
 
 2. [Stream Locations](#paragraph1)
 
-    1. [Four Mile Brook](#subparagraph1)
-    2. [Upper Obear Brook](#subparagraph2)
-    3. [Pond Brook](#subparagraph3)
-    4. [Roaring Brook](#subparagraph4)      
-    5. [Sanderson Brook](#subparagraph5) 
-    6. [Upper Sanderson Brook ](#subparagraph6)
-    7. [West Whatley Brook](#subparagraph7)
-    8. [West Brook Brook ](#subparagraph8)
-    9. [Jimmy Brook OL](#subparagraph9)
-    10. [Mitchell Brook OS](#subparagraph10)
-    11. [Obear Brook IS](#subparagraph11)
+    1. [Stream Locations Map](#subparagraph1)
+    2. [Four Mile Brook](#subparagraph2)
+    3. [Upper Obear Brook](#subparagraph3)
+    4. [Pond Brook](#subparagraph4)
+    5. [Roaring Brook](#subparagraph5)      
+    6. [Sanderson Brook](#subparagraph6) 
+    7. [Upper Sanderson Brook ](#subparagraph7)
+    8. [West Whatley Brook](#subparagraph8)
+    9. [West Brook Brook ](#subparagraph9)
+    10. [Jimmy Brook OL](#subparagraph10)
+    11. [Mitchell Brook OS](#subparagraph11)
+    12. [Obear Brook IS](#subparagraph12)
     
     
     
 3. [Discharge Data collection](#paragraph2)
 
-    1. [Download Schedule](#subparagraph12)
-    2. [Transect SOPs](#subparagraph13) 
-    3. [Data QA/QC](#subparagraph14)
-    4. [Data storage](#subparagraph15)
+    1. [Download Schedule](#subparagraph13)
+    2. [Transect SOPs](#subparagraph14) 
+    3. [Data QA/QC](#subparagraph15)
+    4. [Data storage](#subparagraph16)
     
 4. [Flow Cam Discharge Data collection](#paragraph3)
 
 5. [Flow Cam Time Lapse Discharge Data collection](#paragraph4)
  
 
-    5. [Data Loggers](#subparagraph16)
+    5. [Data Loggers](#subparagraph17)
     
-        1.[Onset](#subparagraph17)
+        1.[Onset](#subparagraph18)
         
-        2.[In-Situ](#subparagraph18)
+        2.[In-Situ](#subparagraph19)
      
-        3.[Solenst](#subparagraph19)
+        3.[Solenst](#subparagraph20)
       
-        4.[Flow Cams](#subparagraph20)
+        4.[Flow Cams](#subparagraph21)
         
    
     
@@ -69,8 +70,11 @@ This repository describes data collection (format, storage,and QAQC), methods an
 
 ## **Stream Locations** <a name="paragraph1"></a>
 
+### Stream Locations Map <a name="subparagraph1"></a>
 
-### Four Mile Brook <a name="subparagraph1"></a>
+   - [Stream Locations Map](https://github.com/tdube2014/Discharge/blob/master/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with stream locations marked out_
+
+### Four Mile Brook <a name="subparagraph2"></a>
 
 + GPS   42°37'19.94"N  72°27'30.76"W
     - [Four Mile](https://github.com/tdube2014/Discharge/blob/master/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
@@ -85,7 +89,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
     - YOY development
     
 
-### Upper Obear Brook <a name="subparagraph2"></a>
+### Upper Obear Brook <a name="subparagraph3"></a>
 
 On Google Earth/maps Obear is labeled Ground Brook.
 
@@ -104,7 +108,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     
     
     
-### Pond Brook <a name="subparagraph3"></a>
+### Pond Brook <a name="subparagraph4"></a>
 + Location
     - Montague MA
 
@@ -120,7 +124,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development
     
- ### Roaring Brook  <a name="subparagraph4"></a>
+ ### Roaring Brook  <a name="subparagraph5"></a>
 
 + GPS  42°14'15.44"N  72°50'56.35"W
     - [Roaring Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
@@ -135,7 +139,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - YOY development   
     
  
-### Sanderson <a name="subparagraph5"></a>
+### Sanderson <a name="subparagraph6"></a>
 + GPS   42°26'7.57"N  72°41'0.49"W
     - [Sanderson](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Sanderson Virtual](https://earth.google.com/web/@42.43712866,-72.68623953,207.65527677a,679.42286314d,35y,0h,0t,0r)  _LInk to google Earth_
@@ -149,7 +153,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - YOY development
     
     
- ### Upper Sanderson Brook <a name="subparagraph6"></a>
+ ### Upper Sanderson Brook <a name="subparagraph7"></a>
 + GPS  42°26'7.57"N  72°41'0.49"W
     - [Upper Sanderson](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Upper Sanderson Virtual](https://earth.google.com/web/@42.43712866,-72.68623953,207.65527677a,679.42286314d,35y,0h,0t,0r)  _LInk to google Earth_
@@ -162,7 +166,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development   
 
-### West Whatley Brook <a name="subparagraph7"></a>
+### West Whatley Brook <a name="subparagraph8"></a>
 + GPS   42°27'33.47"N  72°40'55.73"W
     - [West Whatley](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Whatley%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [West Whatley Virtual](https://earth.google.com/web/@42.46125586,-72.68963205,235.23846823a,3802.45316621d,35y,0h,0t,0r)  _LInk to google Earth_
@@ -181,7 +185,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 
 
 
-### West Brook Brook <a name="subparagraph8"></a>
+### West Brook Brook <a name="subparagraph9"></a>
 + GPS   42°25'51.99"N  72°39'50.58"W
     - [West Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [West Brook Virtual](https://earth.google.com/web/@42.43328879,-72.66589853,138.46171818a,974.86929826d,35y,10.22475928h,0.26815088t,-0r)  _LInk to google Earth_
@@ -196,7 +200,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     
     
 
-### Jimmy Brook OL<a name="subparagraph9"></a>
+### Jimmy Brook OL<a name="subparagraph10"></a>
 + GPS   42°26'4.48"N  72°40'14.39"W
 
     - [Jimmy](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/JImmy%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
@@ -210,7 +214,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development    
     
- ### Mitchell OS<a name="subparagraph10"></a> 
+ ### Mitchell OS<a name="subparagraph11"></a> 
 + GPS    42°26'0.29"N 72°40'5.97"W
 
     - [Mitchell Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Mitchell%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
@@ -224,7 +228,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development   
 
-### Obear Brook IS<a name="subparagraph11"></a>
+### Obear Brook IS<a name="subparagraph12"></a>
 
 On Google Earth/maps Obear is labeled Ground Brook.
 
@@ -247,10 +251,10 @@ On Google Earth/maps Obear is labeled Ground Brook.
 The second paragraph text
 
 
-### Download Schedule <a name="subparagraph12"></a>
+### Download Schedule <a name="subparagraph13"></a>
 This is a sub paragraph, formatted in heading 3 style
 
-### Transect SOPs <a name="subparagraph13"></a>
+### Transect SOPs <a name="subparagraph14"></a>
 The second paragraph text
 
 #### Equipment 
@@ -318,16 +322,16 @@ Cell Phone Cameras
 Raspberry Pi Zero v1.3 camera
 
 
-### Data Storage <a name="subparagraph14"></a>
+### Data Storage <a name="subparagraph15"></a>
 This is a sub paragraph, formatted in heading 3 style
 
-### Data QA/QC <a name="subparagraph15"></a>
+### Data QA/QC <a name="subparagraph16"></a>
 This is a sub paragraph, formatted in heading 3 style
 
-### **Data Loggers** <a name="subparagraph16"></a>
+### **Data Loggers** <a name="subparagraph17"></a>
 This is a sub paragraph, formatted in heading 3 style
 
-#### Onset <a name="subparagraph17"></a>
+#### Onset <a name="subparagraph18"></a>
 
 
 
@@ -338,7 +342,7 @@ This is a sub paragraph, formatted in heading 3 style
 
  [Onset pdf](https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/Onset%20HOBO%20U20-001-01-TI/Documentation/12315-I%20U20%20Manual.pdf)
 
-#### In-Situ <a name="subparagraph18"></a>
+#### In-Situ <a name="subparagraph19"></a>
 
 <p>The Level TROLL 500 logs continuous measurements of water level, water pressure, and temperature. Titanium construction offers durability and long-lasting performance in fresh or saline groundwater environments. Available in vented (gauged) pressure ranges up to 1153 ft (351 m).<p> 
 
@@ -348,7 +352,7 @@ This is a sub paragraph, formatted in heading 3 style
 
 
 
-#### Solinst <a name="subparagraph19"></a>
+#### Solinst <a name="subparagraph20"></a>
 
 <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="200" height="100" />
 
@@ -357,7 +361,7 @@ This is a sub paragraph, formatted in heading 3 style
 [Solinst Logger pdf](https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Documentation/Level-TROLL-400-500-700-700h_Manual.pdf)
 
 
-### Flow Cams <a name="subparagraph20"></a>
+### Flow Cams <a name="subparagraph21"></a>
 
 
 
