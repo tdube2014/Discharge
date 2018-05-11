@@ -76,8 +76,6 @@ This repository describes data collection (format, storage,and QAQC), methods an
   <img src="https://github.com/tdube2014/Discharge/blob/d680a05acafea066175fb9440531da5ee90dc0a7/Images/Stream%20Images/YOY%20Map%20Final.png" width="800" title="Stream Locations map">
 </p>
 
-   - [Stream Locations Map](https://github.com/tdube2014/Discharge/blob/d680a05acafea066175fb9440531da5ee90dc0a7/Images/Stream%20Images/YOY%20Map%20Final.png)  _Google earth image with stream locations marked out_
-
 ### Four Mile Brook <a name="subparagraph2"></a>
 
 + GPS   42°37'19.94"N  72°27'30.76"W
@@ -252,14 +250,12 @@ On Google Earth/maps Obear is labeled Ground Brook.
 
 
 ## **Discharge Data collection** <a name="paragraph2"></a>
-The second paragraph text
 
 
 ### Download Schedule <a name="subparagraph13"></a>
 This is a sub paragraph, formatted in heading 3 style
 
 ### Transect SOPs <a name="subparagraph14"></a>
-The second paragraph text
 
 #### Equipment 
 + Flow Meter 
@@ -279,6 +275,10 @@ Transect site should be in a free flowing run, straight with uniform unobstructe
 There should not be any side channels, so that all the water flows through the main channel. 
 Avoid pools, do not select areas where there is excess woody debris or large boulders. These characteristics can disturb flow creating turbulence, eddies and slack water. Be conscious of how the flow is affected by tributaries and if you want that include tributary discharge in your measurement. 
 
+#### Stream Channel Reference Sites
+The purpose of this section is to establish a permanent, benchmark reference site.
+
+1.
 
 #### Recording Discharge Measurements
 
