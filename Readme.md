@@ -279,7 +279,7 @@ Avoid pools, do not select areas where there is excess woody debris or large bou
 #### Stream Channel Reference Sites
 The purpose of this section is to establish a permanent, benchmark reference site.
 
-1.
+
 
 #### Recording Discharge Measurements
 
