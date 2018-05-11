@@ -72,7 +72,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
 
 ### Stream Locations Map <a name="subparagraph1"></a>
 
-   - [Stream Locations Map](https://github.com/tdube2014/Discharge/blob/master/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with stream locations marked out_
+   - [Stream Locations Map](https://github.com/tdube2014/Discharge/blob/d680a05acafea066175fb9440531da5ee90dc0a7/Images/Stream%20Images/YOY%20Map%20Final.png)  _Google earth image with stream locations marked out_
 
 ### Four Mile Brook <a name="subparagraph2"></a>
 
