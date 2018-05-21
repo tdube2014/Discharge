@@ -25,7 +25,7 @@
     6. [Sanderson Brook](#subparagraph6) 
     7. [Upper Sanderson Brook ](#subparagraph7)
     8. [West Whatley Brook](#subparagraph8)
-    9. [West Brook Brook ](#subparagraph9)
+    9. [West Brook ](#subparagraph9)
     10. [Jimmy Brook OL](#subparagraph10)
     11. [Mitchell Brook OS](#subparagraph11)
     12. [Obear Brook IS](#subparagraph12)
