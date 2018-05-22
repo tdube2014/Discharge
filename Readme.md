@@ -74,7 +74,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
 *Western Massachusetts Study Sites*
 
 <p align="center">
-  <img src="https://github.com/tdube2014/Discharge/blob/d680a05acafea066175fb9440531da5ee90dc0a7/Images/Stream%20Images/YOY%20Map%20Final.png" width="800" title="Stream Locations map">
+  <img src="https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/YOY%20Map%20Final%20levels.png" width="800" title="Stream Locations map">
 </p>
 
 ### Four Mile Brook <a name="subparagraph2"></a>
