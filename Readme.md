@@ -385,7 +385,7 @@ We are exploring the usefulness of digital photos as a affordable method of asse
 + Collect digital Photos 
 
 
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/Stream%20Cam%20119877C_1.jpg" width="300" height="300" />
+<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Flow%20Cam/Images/119876C_1.jpg" width="300" height="300" />
 
 [Game Cam pdf](https://github.com/tdube2014/Discharge/blob/master/Equipment/In%20-Situ/119874C-119875C-119876C-119877C-Trophy-Cam-HD-Aggressor.pdf)
 This is a sub paragraph, formatted in heading 3 style
