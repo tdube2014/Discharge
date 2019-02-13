@@ -16,19 +16,23 @@
  
 
 2. [Stream Locations](#paragraph1)
-
-    1. [Stream Locations Map](#subparagraph1)
-    2. [Four Mile Brook](#subparagraph2)
-    3. [Upper Obear Brook](#subparagraph3)
-    4. [Pond Brook](#subparagraph4)
-    5. [Roaring Brook](#subparagraph5)      
-    6. [Sanderson Brook](#subparagraph6) 
-    7. [Upper Sanderson Brook ](#subparagraph7)
-    8. [West Whatley Brook](#subparagraph8)
-    9. [West Brook ](#subparagraph9)
-    10. [Jimmy Brook OL](#subparagraph10)
-    11. [Mitchell Brook OS](#subparagraph11)
-    12. [Obear Brook IS](#subparagraph12)
+        [Stream Locations Map](#subparagraph1)
+        
+    1. [Four Mile Brook](#subparagraph2)
+    2. [Upper Obear Brook](#subparagraph3)
+    3. [Pond Brook](#subparagraph4)
+    4. [Roaring Brook](#subparagraph5)      
+    5. [Sanderson Brook](#subparagraph6) 
+    6. [Upper Sanderson Brook ](#subparagraph7)
+    7. [West Whatley Brook](#subparagraph8)
+    8. [West Brook 1(Below Study Site)](#subparagraph9)
+    9. [West Brook 2(Above Study Site)](#subparagraph10)
+    10. [Mill Brook ](#subparagraph11)
+    11. [West Brook 3 (Below Reservoir)](#subparagraph12)
+    12. [Jimmy Brook OL](#subparagraph13)
+    13. [Mitchell Brook OS](#subparagraph14)
+    14. [Obear Brook IS](#subparagraph15)
+   
     
     
     
@@ -183,7 +187,18 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - YOY development
 
  
+### West Brook Brook Lower <a name="subparagraph9"></a>
++ GPS   42°25'51.99"N  72°39'50.58"W
+    - [West Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [West Brook Virtual](https://earth.google.com/web/@42.43328879,-72.66589853,138.46171818a,974.86929826d,35y,10.22475928h,0.26815088t,-0r)  _LInk to google Earth_
     
++ Elevation
+    - 411 ft
++ Discharge Measurement Method
+    - Transects
+    - Onset Level Logger
++ Study
+    - YOY development    
      
 
 
