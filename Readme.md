@@ -242,7 +242,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - YOY development   
     
 
-### Jimmy Brook OL<a name="subparagraph13"></a>
+### Jimmy Brook OL (Open Large) <a name="subparagraph13"></a>
 + GPS   42°26'4.48"N  72°40'14.39"W
 
     - [Jimmy](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/JImmy%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
@@ -256,7 +256,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development    
     
- ### Mitchell OS<a name="subparagraph14"></a> 
+ ### Mitchell OS (Open Small)<a name="subparagraph14"></a> 
 + GPS    42°26'0.29"N 72°40'5.97"W
 
     - [Mitchell Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Mitchell%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
@@ -270,7 +270,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development   
 
-### Obear Brook IS<a name="subparagraph15"></a>
+### Obear Brook IS (Isolated Small)<a name="subparagraph15"></a>
 
 On Google Earth/maps Obear is labeled Ground Brook.
 
@@ -321,6 +321,7 @@ The purpose of this section is to establish a permanent, benchmark reference sit
 
 
 #### Recording Discharge Measurements
+rewriting for flow tracker
 
 1. Tighten a measuring tape across the stream at right angles to the flow. It should be taut and not sag in the middle.
 2. Measure the total stream width and record this measurement. 
