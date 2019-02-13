@@ -29,9 +29,9 @@
     9. [West Brook 2 (Above Study Site)](#subparagraph10)
     10. [West Brook 3 (Below Reservoir)](#subparagraph11)
     11. [Mill Brook ](#subparagraph12)
-    12. [Jimmy Brook OL](#subparagraph13)
-    13. [Mitchell Brook OS](#subparagraph14)
-    14. [Obear Brook IS](#subparagraph15)
+    12. [Jimmy Brook OL (Open Large)](#subparagraph13)
+    13. [Mitchell Brook OS (Open Small)](#subparagraph14)
+    14. [Obear Brook IS (Isolated Small)](#subparagraph15)
    
     
 
