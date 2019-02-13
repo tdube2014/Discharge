@@ -313,7 +313,7 @@ We are exploring the usefulness of digital photos as a affordable method of asse
 
 ## **Flow Cam: Time Lapse Discharge Data Collection** <a name="paragraph4"></a>
 
-#### Introduction
+####  Flow Cam Introduction
 
 With the advances in machine learning we are exploring the possibilities of using time lapse photos to calculate flow levels. Time lapse photos may be a cost effective way to collect stream flow data. Not only could this be a usefully tool for scientists this may be a great way for citizen scientists to become involved with the collection of stream flow data and advance the knowledge of our watersheds.
 
