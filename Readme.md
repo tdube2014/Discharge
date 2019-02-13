@@ -291,7 +291,7 @@ The purpose of this section is to establish a permanent, benchmark reference sit
 
 ## **Flow Cam Discharge Data collection** <a name="paragraph3"></a>
 
-#### Introduction
+####  Flow Cam Introduction
 
 <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Flow%20Cam/Images/119876C_1.jpg" width="150" height="150" />
 
@@ -313,7 +313,7 @@ We are exploring the usefulness of digital photos as a affordable method of asse
 
 ## **Flow Cam: Time Lapse Discharge Data Collection** <a name="paragraph4"></a>
 
-####  Flow Cam Introduction
+#### Introduction
 
 With the advances in machine learning we are exploring the possibilities of using time lapse photos to calculate flow levels. Time lapse photos may be a cost effective way to collect stream flow data. Not only could this be a usefully tool for scientists this may be a great way for citizen scientists to become involved with the collection of stream flow data and advance the knowledge of our watersheds.
 
@@ -370,7 +370,7 @@ This is a sub paragraph, formatted in heading 3 style
 
 
 
-#### Introduction
+#### Flow Cam Introduction
 
 We are exploring the usefulness of digital photos as a affordable method of assessing stream flow.  In streams where we have generated a accurate stage discharge relationship we can create a digital library of staff gauge height that can be used to accurately calculate flow. Cameras that range from $70 could be a useful method of data collection in contrast to $300 dollar and up level loggers.  Thus allowing form collection of data in more stream locations.
 
