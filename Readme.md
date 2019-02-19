@@ -16,47 +16,48 @@
  
 
 2. [Stream Locations](#paragraph1)
-        [Stream Locations Map](#subparagraph1)
+       [Stream Locations Map](#subparagraph1)
         
-    1. [Four Mile Brook](#subparagraph2)
-    2. [Upper Obear Brook](#subparagraph3)
-    3. [Pond Brook](#subparagraph4)
-    4. [Roaring Brook](#subparagraph5)      
-    5. [Sanderson Brook](#subparagraph6) 
-    6. [Upper Sanderson Brook ](#subparagraph7)
-    7. [West Whatley Brook](#subparagraph8)
-    8. [West Brook 1 (Below Study Site)](#subparagraph9)
-    9. [West Brook 2 (Above Study Site)](#subparagraph10)
-    10. [West Brook 3 (Below Reservoir)](#subparagraph11)
-    11. [Mill Brook ](#subparagraph12)
-    12. [Jimmy Brook OL (Open Large)](#subparagraph13)
-    13. [Mitchell Brook OS (Open Small)](#subparagraph14)
-    14. [Obear Brook IS (Isolated Small)](#subparagraph15)
+    1. [Avery Brook](#subparagraph2)
+    2. [Four Mile Brook](#subparagraph3)
+    2. [Upper Obear Brook](#subparagraph4)
+    3. [Pond Brook](#subparagraph5)
+    4. [Roaring Brook](#subparagraph6)      
+    5. [Sanderson Brook](#subparagraph7) 
+    6. [Upper Sanderson Brook ](#subparagraph8)
+    7. [West Whatley Brook](#subparagrap9)
+    8. [West Brook 1 (Below Study Site)](#subparagraph10)
+    9. [West Brook 2 (Above Study Site)](#subparagraph11)
+    10. [West Brook 3 (Below Reservoir)](#subparagraph12)
+    11. [Mill Brook ](#subparagraph13)
+    12. [Jimmy Brook OL (Open Large)](#subparagraph14)
+    13. [Mitchell Brook OS (Open Small)](#subparagraph15)
+    14. [Obear Brook IS (Isolated Small)](#subparagraph16)
    
     
 
     
 3. [Discharge Data collection](#paragraph2)
 
-    1. [Download Schedule](#subparagraph13)
-    2. [Transect SOPs](#subparagraph14) 
-    3. [Data QA/QC](#subparagraph15)
-    4. [Data storage](#subparagraph16)
+    1. [Download Schedule](#subparagraph17)
+    2. [Transect SOPs](#subparagraph18) 
+    3. [Data QA/QC](#subparagraph19)
+    4. [Data storage](#subparagraph120)
     
 4. [Flow Cam Discharge Data collection](#paragraph3)
 
 5. [Flow Cam Time Lapse Discharge Data collection](#paragraph4)
  
 
-    5. [Data Loggers](#subparagraph17)
+    5. [Data Loggers](#subparagraph21)
     
-        1.[Onset](#subparagraph18)
+        1.[Onset](#subparagraph22)
         
-        2.[In-Situ](#subparagraph19)
+        2.[In-Situ](#subparagraph23)
      
-        3.[Solenst](#subparagraph20)
+        3.[Solenst](#subparagraph24)
       
-        4.[Flow Cams](#subparagraph21)
+        4.[Flow Cams](#subparagraph25)
         
    
     
@@ -80,7 +81,19 @@ This repository describes data collection (format, storage,and QAQC), methods an
 <p align="center">
   <img src="https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/YOY%20Map%20Final%20levels.png" width="800" title="Stream Locations map">
 </p>
+### Avery Brook <a name="subparagraph2"></a>
 
++ GPS    42°27'6.91"N  72°41'53.70"W
+    - [Four Mile](https://github.com/tdube2014/Discharge/blob/master/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [Four Mile Virtual](https://earth.google.com/web/@42.62585853,-72.46686453,128.59308485a,3790.36706796d,35y,20.79310042h,0.12809756t,0r)  _LInk to google Earth_
+    
++ Elevation
+    - 391 ft
++ Discharge Measurement Method
+    - Transects
+    - Onset Level Logger
++ Study
+    - YOY development
 ### Four Mile Brook <a name="subparagraph2"></a>
 
 + GPS   42°37'19.94"N  72°27'30.76"W
