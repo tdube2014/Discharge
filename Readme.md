@@ -89,7 +89,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
     - [Avery Brook Virtual](https://earth.google.com/web/@42.62585853,-72.46686453,128.59308485a,3790.36706796d,35y,20.79310042h,0.12809756t,0r)  _LInk to google Earth_
     
 + Elevation
-    - 391 ft
+    - 691 ft
 + Discharge Measurement Method
     - Transects
     - Onset Level Logger
