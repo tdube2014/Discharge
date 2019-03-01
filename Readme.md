@@ -87,7 +87,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
 
 + GPS     42°26'56.28"N  72°41'34.45"W
     - [Avery Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Avery%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
-    - [Avery Brook Virtual](https://earth.google.com/web/@42.62585853,-72.46686453,128.59308485a,3790.36706796d,35y,20.79310042h,0.12809756t,0r)  _LInk to google Earth_
+    - [Avery Brook Virtual](https://www.google.com/maps/@42.4523686,-72.6883903,15z)  _Link to Google Maps_
     
 + Elevation
     - 691 ft
@@ -96,6 +96,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
     - Onset Level Logger
 + Study
     - YOY development
+    - Eco-Drought
     
     
     
