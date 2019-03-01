@@ -116,7 +116,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
 + Study
     - YOY development
     
- ### Mill BrooK <a name="subparagraph4"></a>
+ ### Mill Brook <a name="subparagraph4"></a>
  Data not correct
 + GPS   42°24'48.37"N  42°24'48.37"N
     - [Mill Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
@@ -209,7 +209,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 ### West Whately Brook  <a name="subparagraph10"></a>
 + GPS   42°27'33.47"N  72°40'55.73"W
     - [West Whately](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Whatley%20Study%20Site.jpg)  _Google earth image with study site marked out_
-    - [West Whately Virtual](https://www.google.com/maps/@42.4584796,-72.6877037,14.77z)  _LInk to google Maps_
+    - [West Whately Virtual](https://www.google.com/maps/@42.4584796,-72.6877037,14.77z)  _Link to Google Maps_
     
 + Elevation
     - 710 ft
