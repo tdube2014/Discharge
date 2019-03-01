@@ -25,7 +25,7 @@
     5. [Pond Brook](#subparagraph6)
     6. [Roaring Brook](#subparagraph7)      
     7. [Sanderson Brook](#subparagraph8) 
-    8. [Upper Sanderson Brook ](#subparagraph9)
+    8. [Upper Sanderson Brook](#subparagraph9)
     9. [West Whatley Brook](#subparagrap10)
     10. [West Brook 1 (Below Study Site)](#subparagraph11)
     11. [West Brook 2 (Above Study Site)](#subparagraph12)
@@ -95,7 +95,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
     - Onset Level Logger
 + Study
     - YOY development
-### Four Mile Brook <a name="subparagraph2"></a>
+### Four Mile Brook <a name="subparagraph3"></a>
 
 + GPS   42°37'19.94"N  72°27'30.76"W
     - [Four Mile Brook](https://github.com/tdube2014/Discharge/blob/master/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
@@ -109,7 +109,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
 + Study
     - YOY development
     
- ### Mill BrooK <a name="subparagraph3"></a>
+ ### Mill BrooK <a name="subparagraph4"></a>
  Data not correct
 + GPS   42°24'48.37"N  42°24'48.37"N
     - [Mill Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
@@ -122,7 +122,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
     - Onset Level Logger
 + Study
     - YOY development   
-### Upper Obear Brook <a name="subparagraph4"></a>
+### Upper Obear Brook <a name="subparagraph5"></a>
 
 On Google Earth/maps Obear is labeled Ground Brook.
 
@@ -141,7 +141,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     
     
     
-### Pond Brook <a name="subparagraph5"></a>
+### Pond Brook <a name="subparagraph6"></a>
 + Location
     - Montague MA
 
@@ -157,7 +157,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development
     
- ### Roaring Brook  <a name="subparagraph6"></a>
+ ### Roaring Brook  <a name="subparagraph7"></a>
 
 + GPS  42°14'15.44"N  72°50'56.35"W
     - [Roaring Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
@@ -172,7 +172,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - YOY development   
     
  
-### Sanderson Brook <a name="subparagraph7"></a>
+### Sanderson Brook <a name="subparagraph8"></a>
 + GPS   42°26'7.57"N  72°41'0.49"W
     - [Sanderson Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Sanderson Brook Virtual](https://earth.google.com/web/@42.43712866,-72.68623953,207.65527677a,679.42286314d,35y,0h,0t,0r)  _LInk to google Earth_
@@ -186,7 +186,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - YOY development
     
     
- ### Upper Sanderson Brook <a name="subparagraph8"></a>
+ ### Upper Sanderson Brook <a name="subparagraph9"></a>
 + GPS  42°26'7.57"N  72°41'0.49"W
     - [Upper Sanderson](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Upper Sanderson Virtual](https://earth.google.com/web/@42.43712866,-72.68623953,207.65527677a,679.42286314d,35y,0h,0t,0r)  _LInk to google Earth_
@@ -199,7 +199,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development   
 
-### West Whately Brook  <a name="subparagraph9"></a>
+### West Whately Brook  <a name="subparagraph10"></a>
 + GPS   42°27'33.47"N  72°40'55.73"W
     - [West Whately](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Whatley%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [West Whately Virtual](https://www.google.com/maps/@42.4584796,-72.6877037,14.77z)  _LInk to google Maps_
@@ -211,7 +211,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - Onset Level Logger
 + Study
     - YOY development
-### West Brook Brook 1 (Below Study Site)   <a name="subparagraph10"></a>
+### West Brook Brook 1 (Below Study Site)   <a name="subparagraph11"></a>
 + GPS   42°25'53.93"N   72°39'53.80"W
     - [West Brook 1 (Below Study Site)](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [West Brook 1 (Below Study Site Virtual](https://earth.google.com/web/@42.43328879,-72.66589853,138.46171818a,974.86929826d,35y,10.22475928h,0.26815088t,-0r)  _LInk to google Earth_
@@ -224,7 +224,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development 
  
-### West Brook Brook 2 (Above Study Site)   <a name="subparagraph11"></a>
+### West Brook Brook 2 (Above Study Site)   <a name="subparagraph12"></a>
 + GPS    42°26'16.46"N   72°40'36.80"W
     - [West Brook 2 (Above Study Site)](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [West Brook 2 (Above Study Site) Virtual](https://earth.google.com/web/@42.43328879,-72.66589853,138.46171818a,974.86929826d,35y,10.22475928h,0.26815088t,-0r)  _LInk to google Earth_
@@ -240,7 +240,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 
 
 
-### West Brook Brook 3 (Below Reservoir) <a name="subparagraph12"></a>
+### West Brook Brook 3 (Below Reservoir) <a name="subparagraph13"></a>
 + GPS   42°26'13.70"N  72°40'58.54"W
     - [West Brook 3 (Below Reservoir)](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [West Brook 3 (Below Reservoir) Virtual](https://earth.google.com/web/@42.43328879,-72.66589853,138.46171818a,974.86929826d,35y,10.22475928h,0.26815088t,-0r)  _LInk to google Earth_
@@ -256,7 +256,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 
     
 
-### Jimmy Brook OL (Open Large) <a name="subparagraph13"></a>
+### Jimmy Brook OL (Open Large) <a name="subparagraph14"></a>
 + GPS   42°26'4.48"N  72°40'14.39"W
 
     - [Jimmy](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/JImmy%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
@@ -270,7 +270,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development    
     
- ### Mitchell OS (Open Small)<a name="subparagraph14"></a> 
+ ### Mitchell OS (Open Small)<a name="subparagraph15"></a> 
 + GPS    42°26'0.29"N 72°40'5.97"W
 
     - [Mitchell Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Mitchell%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
@@ -284,7 +284,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development   
 
-### Obear Brook IS (Isolated Small)<a name="subparagraph15"></a>
+### Obear Brook IS (Isolated Small)<a name="subparagraph16"></a>
 
 On Google Earth/maps Obear is labeled Ground Brook.
 
