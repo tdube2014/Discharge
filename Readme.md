@@ -26,7 +26,7 @@
     6. [Roaring Brook](#subparagraph7)      
     7. [Sanderson Brook](#subparagraph8) 
     8. [Upper Sanderson Brook](#subparagraph9)
-    9. [West Whatley Brook](#subparagrap10)
+    9. [West Whatley Brook](#subparagraph10)
     10. [West Brook 1 (Below Study Site)](#subparagraph11)
     11. [West Brook 2 (Above Study Site)](#subparagraph12)
     12. [West Brook 3 (Below Reservoir)](#subparagraph13)
