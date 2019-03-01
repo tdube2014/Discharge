@@ -202,7 +202,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 ### West Whately Brook  <a name="subparagraph9"></a>
 + GPS   42°27'33.47"N  72°40'55.73"W
     - [West Whately](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Whatley%20Study%20Site.jpg)  _Google earth image with study site marked out_
-    - [West Whately Virtual](https://earth.google.com/web/@42.46125586,-72.68963205,235.23846823a,3802.45316621d,35y,0h,0t,0r)  _LInk to google Earth_
+    - [West Whately Virtual](https://www.google.com/maps/@42.4584796,-72.6877037,14.77z)  _LInk to google Maps_
     
 + Elevation
     - 710 ft
