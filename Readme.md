@@ -121,7 +121,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
  ### Mill River <a name="subparagraph4"></a>
  Data not correct
 + GPS    42°24'48.48"N  72°37'35.79"W
-    - [Mill River](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Mill%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [Mill River](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Mill%20River%20Study%20Site%20Study%20site.jpg)  _Google earth image with study site marked out_
     - [Mill River Virtual](https://www.google.com/maps/@42.4152958,-72.6245542,16.25z)  _Link to Google Maps_
     
 + Elevation
