@@ -262,7 +262,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 
 ### West Brook Brook 3 (Below Reservoir) <a name="subparagraph13"></a>
 + GPS    42°26'13.94"N   72°40'58.25"W
-    - [West Brook 3 (Below Reservoir)](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [West Brook 3 (Below Reservoir)](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%203%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [West Brook 3 (Below Reservoir) Virtual](https://www.google.com/maps/@42.4376464,-72.6787523,16.75z)  _Link to Google Maps_
     
 + Elevation
