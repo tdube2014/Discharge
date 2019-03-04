@@ -343,7 +343,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
   
 
 <p align="center">
-  <img src="https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Avery.JPG" width="800" title="Avery Brook">
+  <img src="https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/20190214_100643.jpg" width="800" title="Deerfield River Winter">
 </p>
 
 
