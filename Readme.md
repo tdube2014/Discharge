@@ -342,7 +342,9 @@ On Google Earth/maps Obear is labeled Ground Brook.
     
   
 
-
+<p align="center">
+  <img src="https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Avery.JPG" width="800" title="Avery Brook">
+</p>
 
 
 ## **Discharge Data collection** <a name="paragraph2"></a>
