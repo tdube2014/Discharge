@@ -245,7 +245,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
  
 ### West Brook Brook 2 (Above Study Site)   <a name="subparagraph12"></a>
 + GPS     42°26'16.73"N   72°40'37.68"W
-    - [West Brook 2 (Above Study Site)](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [West Brook 2 (Above Study Site)](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%202%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [West Brook 2 (Above Study Site) Virtual](https://www.google.com/maps/@42.4371567,-72.6711098,16.75z)  _Link to Google Maps_
     
 + Elevation
