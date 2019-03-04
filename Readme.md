@@ -91,7 +91,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
     - [Avery Brook Virtual](https://www.google.com/maps/@42.4523686,-72.6883903,15z)  _Link to Google Maps_
     
 + Elevation
-    - 691 ft
+    - 773 ft
 + Discharge Measurement Method
     - Transects
     - Onset Level Logger
@@ -111,7 +111,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
     - [Four Mile Brook Virtual](https://www.google.com/maps/@42.6212005,-72.4621641,15.5z)  _Link to Google Maps_
     
 + Elevation
-    - 391 ft
+    - 394 ft
 + Discharge Measurement Method
     - Transects
     - Onset Level Logger
@@ -120,13 +120,13 @@ This repository describes data collection (format, storage,and QAQC), methods an
     - Eco-Drought
     
  ### Mill River <a name="subparagraph4"></a>
- Data not correct
+ 
 + GPS    42°24'48.48"N  72°37'35.79"W
     - [Mill River](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Mill%20River%20Study%20Site%20Study%20site.jpg)  _Google earth image with study site marked out_
     - [Mill River Virtual](https://www.google.com/maps/@42.4152958,-72.6245542,16.25z)  _Link to Google Maps_
     
 + Elevation
-    - 411 ft
+    - 143 ft
 + Discharge Measurement Method
     - Transects
     - Onset Level Logger
@@ -143,7 +143,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [Upper Obear Brook Virtual](https://www.google.com/maps/@42.4346442,-72.6755029,16.5z)  _Link to Google Maps_
     
 + Elevation
-    - 615 ft
+    - 632ft
 + Discharge Measurement Method
     - Transects
     - In Situ Level Logger
@@ -163,7 +163,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [Pond Brook Virtual](https://www.google.com/maps/@42.5412993,-72.5299882,16.99z) _Link to Google Maps_
     
 + Elevation
-    - 203 ft
+    - 195 ft
 + Discharge Measurement Method
     - Transects
     - Onset Level Logger
@@ -178,7 +178,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [Roaring Brook Virtual](https://www.google.com/maps/@42.2385075,-72.8476029,17.28z)  _Link to Google Maps_
     
 + Elevation
-    - 529 ft
+    - 259 ft
 + Discharge Measurement Method
     - Transects
     - Onset Level Logger
@@ -193,7 +193,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [Sanderson Brook Virtual](https://www.google.com/maps/@42.4366474,-72.6903586,16.75z)  _Link to Google Maps_
     
 + Elevation
-    - 617 ft
+    - 619 ft
 + Discharge Measurement Method
     - Transects
     - Onset Level Logger
@@ -208,7 +208,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [Upper Sanderson Virtual](https://www.google.com/maps/@42.4366474,-72.6903586,16.75z)  _Link to Google Maps_
     
 + Elevation
-    - 620 ft
+    - 637 ft
 + Discharge Measurement Method
     - Transects
     - Onset Level Logger
@@ -222,7 +222,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [West Whately Virtual](https://www.google.com/maps/@42.4584796,-72.6877037,14.77z)  _Link to Google Maps_
     
 + Elevation
-    - 710 ft
+    - 722 ft
 + Discharge Measurement Method
     - Transects
     - Onset Level Logger
@@ -236,7 +236,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [West Brook (General Site) Virtual](https://www.google.com/maps/@42.4355654,-72.6702039,16.75z)  _Link to Google Maps_
     
 + Elevation
-    - 411 ft
+    - START 413 ft, END 470
 + Discharge Measurement Method
     - Transects
     - Onset Level Logger
@@ -251,7 +251,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [West Brook 1 (Below Study Site Virtual](https://www.google.com/maps/@42.4319305,-72.6611962,16.75z)  _Link to Google Maps_
     
 + Elevation
-    - 411 ft
+    - 410 ft
 + Discharge Measurement Method
     - Transects
     - Onset Level Logger
@@ -265,7 +265,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [West Brook 2 (Above Study Site) Virtual](https://www.google.com/maps/@42.4371567,-72.6711098,16.75z)  _Link to Google Maps_
     
 + Elevation
-    - 411 ft
+    - 530 ft
 + Discharge Measurement Method
     - Transects
     - Onset Level Logger
@@ -282,7 +282,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [West Brook 3 (Below Reservoir) Virtual](https://www.google.com/maps/@42.4376464,-72.6787523,16.75z)  _Link to Google Maps_
     
 + Elevation
-    - 411 ft
+    - 578 ft
 + Discharge Measurement Method
     - Transects
     - Onset Level Logger
@@ -332,7 +332,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - [Obear Virtual](https://www.google.com/maps/@42.4346442,-72.6755029,16.5z)  _Link to Google Maps_
     
 + Elevation
-    - 539 ft
+    - 470 ft
 + Discharge Measurement Method
     - Transects
     - Solenst Level Logger
