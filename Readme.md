@@ -107,7 +107,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
 
 + GPS   42°37'19.94"N  72°27'30.76"W
     - [Four Mile Brook](https://github.com/tdube2014/Discharge/blob/master/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
-    - [Four Mile Brook Virtual](https://earth.google.com/web/@42.62585853,-72.46686453,128.59308485a,3790.36706796d,35y,20.79310042h,0.12809756t,0r)  _LInk to google Earth_
+    - [Four Mile Brook Virtual](https://www.google.com/maps/@42.6212005,-72.4621641,15.5z)  _Link to Google Maps_
     
 + Elevation
     - 391 ft
@@ -116,6 +116,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
     - Onset Level Logger
 + Study
     - YOY development
+    - Eco-Drought
     
  ### Mill Brook <a name="subparagraph4"></a>
  Data not correct
