@@ -230,7 +230,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - Eco-Drought
     
 ### West Brook Brook 1 (Below Study Site)   <a name="subparagraph11"></a>
-+ GPS   42°25'53.93"N   72°39'53.80"W
++ GPS   42°25'54.01"N 72°39'53.28"W
     - [West Brook 1 (Below Study Site)](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [West Brook 1 (Below Study Site Virtual](https://www.google.com/maps/@42.4319305,-72.6611962,16.75z)  _Link to Google Maps_
     
@@ -244,7 +244,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - Eco-Drought
  
 ### West Brook Brook 2 (Above Study Site)   <a name="subparagraph12"></a>
-+ GPS    42°26'16.46"N   72°40'36.80"W
++ GPS     42°26'16.73"N   72°40'37.68"W
     - [West Brook 2 (Above Study Site)](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [West Brook 2 (Above Study Site) Virtual](https://www.google.com/maps/@42.4371567,-72.6711098,16.75z)  _Link to Google Maps_
     
@@ -261,7 +261,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 
 
 ### West Brook Brook 3 (Below Reservoir) <a name="subparagraph13"></a>
-+ GPS   42°26'13.70"N  72°40'58.54"W
++ GPS    42°26'13.94"N   72°40'58.25"W
     - [West Brook 3 (Below Reservoir)](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [West Brook 3 (Below Reservoir) Virtual](https://www.google.com/maps/@42.4376464,-72.6787523,16.75z)  _Link to Google Maps_
     
@@ -323,6 +323,20 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development
     - Eco-Drought
+    
+  ### West Brook  ( Study Site)   <a name="subparagraph12"></a>
++ GPS    42°26'16.46"N   72°40'36.80"W
+    - [West Brook 2 (Above Study Site)](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [West Brook 2 (Above Study Site) Virtual](https://www.google.com/maps/@42.4371567,-72.6711098,16.75z)  _Link to Google Maps_
+    
++ Elevation
+    - 411 ft
++ Discharge Measurement Method
+    - Transects
+    - Onset Level Logger
++ Study
+    - YOY development
+    - Eco-Drought  
 
 
 
