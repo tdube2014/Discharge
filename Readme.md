@@ -106,7 +106,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
 ### Four Mile Brook <a name="subparagraph3"></a>
 
 + GPS   42°37'19.94"N  72°27'30.76"W
-    - [Four Mile Brook](https://github.com/tdube2014/Discharge/blob/master/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [Four Mile Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Four%20Mile%20Brook%20Study%20site.jpg)  _Google earth image with study site marked out_
     - [Four Mile Brook Virtual](https://www.google.com/maps/@42.6212005,-72.4621641,15.5z)  _Link to Google Maps_
     
 + Elevation
