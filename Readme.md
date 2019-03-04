@@ -139,7 +139,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
 On Google Earth/maps Obear is labeled Ground Brook.
 
 + GPS 42°25'55.08"N  72°40'40.94"W
-    - [upper Obear Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Obear%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [Upper Obear Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Obear%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Upper Obear Brook Virtual](https://www.google.com/maps/@42.4346442,-72.6755029,16.5z)  _Link to Google Maps_
     
 + Elevation
