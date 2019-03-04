@@ -20,7 +20,7 @@
         
     1. [Avery Brook](#subparagraph2)
     2. [Four Mile Brook](#subparagraph3)
-    3. [Mill Brook ](#subparagraph4)
+    3. [Mill River ](#subparagraph4)
     4. [Upper Obear Brook](#subparagraph5)
     5. [Pond Brook](#subparagraph6)
     6. [Roaring Brook](#subparagraph7)      
@@ -118,11 +118,11 @@ This repository describes data collection (format, storage,and QAQC), methods an
     - YOY development
     - Eco-Drought
     
- ### Mill Brook <a name="subparagraph4"></a>
+ ### Mill River <a name="subparagraph4"></a>
  Data not correct
 + GPS   42°24'48.37"N  42°24'48.37"N
-    - [Mill Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
-    - [Mill Brook Virtual](https://earth.google.com/web/@42.43328879,-72.66589853,138.46171818a,974.86929826d,35y,10.22475928h,0.26815088t,-0r)  _LInk to google Earth_
+    - [Mill River](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [Mill River Virtual](https://www.google.com/maps/@42.4152958,-72.6245542,16.25z)  _Link to Google Maps_
     
 + Elevation
     - 411 ft
