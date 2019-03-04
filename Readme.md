@@ -230,10 +230,10 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - YOY development
     - Eco-Drought
     
-      ### West Brook (General Study Site)   <a name="subparagraph11"></a>
+### West Brook (General Study Site)   <a name="subparagraph11"></a>
 + GPS    42°26'4.09"N    72°40'23.08"W
-    - [West Brook 2 (Above Study Site)](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
-    - [West Brook 2 (Above Study Site) Virtual](https://www.google.com/maps/@42.4355654,-72.6702039,16.75z)  _Link to Google Maps_
+    - [West Brook (General Study Site)](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/West%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
+    - [West Brook 2 (General Site) Virtual](https://www.google.com/maps/@42.4355654,-72.6702039,16.75z)  _Link to Google Maps_
     
 + Elevation
     - 411 ft
