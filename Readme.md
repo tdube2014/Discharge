@@ -467,6 +467,19 @@ This is a sub paragraph, formatted in heading 3 style
 
 [Solinst Logger pdf](https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Documentation/Level-TROLL-400-500-700-700h_Manual.pdf)
 
+### **Data Logger Deployment/ Pads** <a name="subparagraph17"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="200" height="100" />
+
+<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="200" height="100" />
+
+<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="200" height="100" />
+
+<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="200" height="100" />
+
+<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="200" height="100" />
+
 
 ### Flow Cams <a name="subparagraph21"></a>
 
