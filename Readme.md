@@ -468,7 +468,7 @@ This is a sub paragraph, formatted in heading 3 style
 [Solinst Logger pdf](https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Documentation/Level-TROLL-400-500-700-700h_Manual.pdf)
 
 ### **Data Logger Deployment/ Pads** <a name="subparagraph17"></a>
-This is a sub paragraph, formatted in heading 3 style
+
 *Deerfield River Winter*
 <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Logger%20Pads/Depth_Logger_and_Housing.jpg" width="400" height="200" /> 
 
