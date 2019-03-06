@@ -517,6 +517,8 @@ We are exploring the usefulness of digital photos as a affordable method of asse
 
 <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Flow%20Cam/Images/119876C_1.jpg" width="300" height="300" />
 
+<img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="300" height="300" />
+
 [Game Cam pdf](https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Flow%20Cam/Documentation/119874C-119875C-119876C-119877C-Trophy-Cam-HD-Aggressor.pdf)
 This is a sub paragraph, formatted in heading 3 style
 
@@ -527,4 +529,4 @@ This is a sub paragraph, formatted in heading 3 style
 [Level Troll 500 pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
 
 
-<img src="HOBO-U20-Water-Level-Data-Logger-U20-001-02.jpg" width="250" height="150" />
+<img src="https://github.com/tdube2014/Discharge/tree/master/Equipment%20Info/Loggers/Onset%20HOBO%20U20-001-01-TI/Images" width="250" height="150" />
