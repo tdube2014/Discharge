@@ -470,7 +470,15 @@ This is a sub paragraph, formatted in heading 3 style
 ### **Data Logger Deployment/ Pads** <a name="subparagraph17"></a>
 This is a sub paragraph, formatted in heading 3 style
 *Deerfield River Winter*
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Logger%20Pads/Depth_Logger_and_Housing.jpg" width="400" height="200" /> *Deerfield River Winter*<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Logger%20Pads/Pad_Long_Side.jpg" width="400" height="200" />
+<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Logger%20Pads/Depth_Logger_and_Housing.jpg" width="400" height="200" /> 
+
+*Deerfield River Winter*
+<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Logger%20Pads/Pad_Long_Side.jpg" width="400" height="200" />
+*Deerfield River Winter* <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Logger%20Pads/Pad_Long_Side.jpg" width="400" height="200" />
+
+*Deerfield River Winter* <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Logger%20Pads/Pad_Long_Side.jpg" width="400" height="200" />*Deerfield River Winter*
+*Deerfield River Winter*
+
 
 <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="200" height="100" />
 
