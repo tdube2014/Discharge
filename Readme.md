@@ -470,7 +470,7 @@ This is a sub paragraph, formatted in heading 3 style
 ### **Data Logger Deployment/ Pads** <a name="subparagraph17"></a>
 
 *Deerfield River Winter*
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Logger%20Pads/Depth_Logger_and_Housing.jpg" width="400" height="200" /> 
+[Logger Pad]<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Logger%20Pads/Depth_Logger_and_Housing.jpg" width="400" height="200" /> 
 
 *Deerfield River Winter*
 <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Logger%20Pads/Pad_Long_Side.jpg" width="400" height="200" />
