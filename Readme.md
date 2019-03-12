@@ -86,8 +86,12 @@ This repository describes data collection (format, storage,and QAQC), methods an
 
 ### Avery Brook <a name="subparagraph2"></a>
 
+<<<<<<< HEAD
 + GPS     42°26'56.28"N  72°41'34.45"W
 
+=======
++ GPS     42°26'58.50"N   72°41'37.29"W
+>>>>>>> 08058b35c7df34abb3f0d02f883f9f06f52c3147
     - [Avery Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Avery%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Avery Brook Virtual](https://www.google.com/maps/@42.4523686,-72.6883903,15z)  _Link to Google Maps_
     
@@ -342,7 +346,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     
     
     
-*Deerfield River Winter* 
+*Deerfield River Winter 2019* 
 
 </p>
 <p align="center">
