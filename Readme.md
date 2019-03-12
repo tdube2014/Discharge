@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Avery.JPG" width="800" title="Avery Brook">
+  <img src="./Images/Stream Images/Avery.jpg" width="800" title="Avery Brook">
 </p>
 
 
@@ -81,12 +81,13 @@ This repository describes data collection (format, storage,and QAQC), methods an
 *Western Massachusetts Study Sites*
 
 <p align="center">
-  <img src="https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/YOY%20Map%20Final%20levels.png" width="800" title="Stream Locations map">
+  <img src="./Images/Stream Images/YOY Map Final levels.png" width="800" title="Stream Locations map">
 </p>
 
 ### Avery Brook <a name="subparagraph2"></a>
 
 + GPS     42°26'56.28"N  72°41'34.45"W
+
     - [Avery Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Avery%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Avery Brook Virtual](https://www.google.com/maps/@42.4523686,-72.6883903,15z)  _Link to Google Maps_
     
@@ -107,7 +108,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
 ### Four Mile Brook <a name="subparagraph3"></a>
 
 + GPS   42°37'19.94"N  72°27'30.76"W
-    - [Four Mile Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Four%20Mile%20Brook%20Study%20site.jpg)  _Google earth image with study site marked out_
+   - [Four Mile Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Four%20Mile%20Brook%20Study%20site.jpg)  _Google earth image with study site marked out_
     - [Four Mile Brook Virtual](https://www.google.com/maps/@42.6212005,-72.4621641,15.5z)  _Link to Google Maps_
     
 + Elevation
@@ -119,7 +120,7 @@ This repository describes data collection (format, storage,and QAQC), methods an
     - YOY development
     - Eco-Drought
     
- ### Mill River <a name="subparagraph4"></a>
+### Mill River <a name="subparagraph4"></a>
  
 + GPS    42°24'48.48"N  72°37'35.79"W
     - [Mill River](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Mill%20River%20Study%20Site%20Study%20site.jpg)  _Google earth image with study site marked out_
@@ -171,7 +172,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - YOY development
     - Eco-Drought
     
- ### Roaring Brook  <a name="subparagraph7"></a>
+### Roaring Brook  <a name="subparagraph7"></a>
 
 + GPS  42°14'15.44"N  72°50'56.35"W
     - [Roaring Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Roaring%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
@@ -202,7 +203,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - Eco-Drought
     
     
- ### Upper Sanderson Brook <a name="subparagraph9"></a>
+### Upper Sanderson Brook <a name="subparagraph9"></a>
 + GPS  42°26'7.57"N  72°41'0.49"W
     - [Upper Sanderson](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Sanderson%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Upper Sanderson Virtual](https://www.google.com/maps/@42.4366474,-72.6903586,16.75z)  _Link to Google Maps_
@@ -295,7 +296,6 @@ On Google Earth/maps Obear is labeled Ground Brook.
 
 ### Jimmy Brook OL (Open Large) <a name="subparagraph15"></a>
 + GPS   42°26'4.48"N  72°40'14.39"W
-
     - [Jimmy](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/JImmy%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [Jimmy Virtual](https://www.google.com/maps/@42.437072,-72.668507,16.75z)  _Link to Google Maps_
     
@@ -310,7 +310,6 @@ On Google Earth/maps Obear is labeled Ground Brook.
     
  ### Mitchell OS (Open Small)<a name="subparagraph16"></a> 
 + GPS    42°26'0.29"N 72°40'5.97"W
-
     - [Mitchell Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Mitchell%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [MItchell Brook Virtual](https://www.google.com/maps/@42.4368272,-72.6648452,16.75z)  _Link to Google Maps_
     
@@ -347,7 +346,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 
 </p>
 <p align="center">
-  <img src="https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/20190214_100643.jpg" width="800" title="Deerfield River Winter">
+  <img src="./Images/Stream Images/Deerfield Winter.jpg" width="800" title="Deerfield River Winter">
 </p>
 </p>
 
@@ -482,7 +481,7 @@ delete
 
 
 
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="200" height="100" />
+<img src=".\Equipment Info\Logger Pads\Pad_from_side_with_logger_iside_housing.jpg" width="200" height="100" />
 
 <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="200" height="100" />
 
@@ -493,7 +492,6 @@ delete
 <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="300" height="300" /><img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="300" height="300" />
 
 <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="300" height="300" />
-
 
 
 ### Flow Cams <a name="subparagraph21"></a>
