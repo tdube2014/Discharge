@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="./Images/Stream Images/download.png" width="800" title="Avery Brook">
+  <img src="./Images/Stream Images/Avery.JPG" width="800" title="Avery Brook">
 </p>
 
 
