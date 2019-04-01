@@ -1,4 +1,4 @@
-# 2018 Environmental Data: Discharge/Flow
+# Environmental Data: Discharge/Flow
 
 
 
@@ -344,54 +344,50 @@ On Google Earth/maps Obear is labeled Ground Brook.
 <br>
 <br>
     
-    
-**Deerfield River Winter 2019**
+ *Deerfield River Winter 2019*
 <br>
 <br>
 </p>
 <p align="center">
   <img src="./Images/Stream Images/Deerfield Winter.jpg" width="800" title="Deerfield River Winter">
 </p>
-</p>
-\
-
+<br>
+<br>
+<br>
 
 
 
 
 ## **Discharge Data collection** <a name="paragraph2"></a>
 
-\
-\
+<br>
+<br>
 
 *Collecting Discharge Data*
-</p>
+
+
 <p align="center">
   <img src="./Images/Field Work Images/Discharge data Collection fix.jpg" title="Discharge Data Collection">
 </p>
-\
-\
-\
+<br>
+<br>
+<br>
 *Avery Waterfall*
-</p>
-<p align="center">
-  <img src="./Images/Field Work Images/Avery waterfall.jpg" {
-  width: 1960px;
-  height: 4032px;
-}title="Discharge Data Collection">
-</p>
-</p>
-</p>
 
+<p align="center">
+  <img src="./Images/Field Work Images/Avery waterfall.jpg"title="Avery Wterfall"
+</p>
+<br>
+<br>
+<br>
 *Logger Maintenance*
+
 <p align="center">
-  <img src="./Images/Field Work Images/Avery Mike and Logger test.jpg" width="600" height="300" title="Dicharge Logger  Maintenance">
+  <img src="./Images/Field Work Images/Avery Mike and Logger test.jpg" title="Dicharge Logger Maintenance">
 </p>
-</p>
-</p>
-</p>
-
-
+<br>
+<br>
+<br>
 
 
 
