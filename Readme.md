@@ -1,19 +1,22 @@
 # Environmental Data: Discharge/Flow
 
-
-
+<br>
+<br>
 
 <p align="center">
   <img src="./Images/Stream Images/Avery.JPG" width="800" title="Avery Brook">
 </p>
 
-
+<br>
+<br>
 
 # Table of Contents
 
+<br>
+
 1. [Introduction](#introduction)
 
- 
+<br>
 
 2. [Stream Locations](#paragraph1)
        [Stream Locations Map](#subparagraph1)
@@ -35,16 +38,16 @@
     15. [Mitchell Brook OS (Open Small)](#subparagraph16)
     16. [Obear Brook IS (Isolated Small)](#subparagraph17)   
 
-   
-    
+ <br>   
 
-    
 3. [Discharge Data collection](#paragraph2)
 
     1. [Download Schedule](#subparagraph17)
     2. [Transect SOPs](#subparagraph18) 
     3. [Data QA/QC](#subparagraph19)
     4. [Data storage](#subparagraph120)
+    
+<br>    
     
 4. [Flow Cam Discharge Data collection](#paragraph3)
 
@@ -483,9 +486,11 @@ This is a sub paragraph, formatted in heading 3 style
 delete
 
 
-<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/HOBO-U20-Water-Level-Data-Logger-U20-001-02.jpg"  width="250" height="150"/>
+<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/HOBO-U20-Water-Level-Data-Logger-U20-001-02.jpg"  width="400" height="200"/>
 
-<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/Onset Level Logger Housings.jpg"  width="250" height="150"/>
+<br>
+
+<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/Onset Level Logger Housings.jpg"  width="400" height="200"/>
 
 
  [Onset pdf](./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Documentation/12315-I U20 Manual.pdf)
@@ -494,7 +499,11 @@ delete
 
 <p>The Level TROLL 500 logs continuous measurements of water level, water pressure, and temperature. Titanium construction offers durability and long-lasting performance in fresh or saline groundwater environments. Available in vented (gauged) pressure ranges up to 1153 ft (351 m).<p> 
 
-<img src="./Equipment Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="300" height="300" />
+<br>
+
+<img src="./Equipment Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="500" height="300" />
+
+<br>
 
 [Level Troll 500 pdf](./Equipment Info/Loggers/In-Situ/Documentation/Level-TROLL-400-500-700-700h_Manual.pdf)
 
@@ -502,13 +511,20 @@ delete
 
 #### Solinst <a name="subparagraph20"></a>
 
-<img src="./Equipment Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="200" height="100" />
+<br>
+
+<img src="./Equipment Info/Loggers/Solinst Baralogger/Images/s-l640.jpg" width="400" height="200" />
 
 
 
 [Solinst Logger pdf](./Equipment Info/Loggers/In-Situ/Documentation/Level-TROLL-400-500-700-700h_Manual.pdf)
 
+<br>
+<br>
+
 ### **Data Logger Deployment/ Pads** <a name="subparagraph17"></a>
+
+<br>
 
 
 *Depth Logger and Housing*
