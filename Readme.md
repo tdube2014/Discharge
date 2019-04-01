@@ -16,8 +16,6 @@
 
 1. [Introduction](#introduction)
 
-<br>
-
 2. [Stream Locations](#paragraph1)
        [Stream Locations Map](#subparagraph1)
         
@@ -38,16 +36,12 @@
     15. [Mitchell Brook OS (Open Small)](#subparagraph16)
     16. [Obear Brook IS (Isolated Small)](#subparagraph17)   
 
- <br>   
-
 3. [Discharge Data collection](#paragraph2)
 
     1. [Download Schedule](#subparagraph17)
     2. [Transect SOPs](#subparagraph18) 
     3. [Data QA/QC](#subparagraph19)
     4. [Data storage](#subparagraph120)
-    
-<br>    
     
 4. [Flow Cam Discharge Data collection](#paragraph3)
 
@@ -66,16 +60,8 @@
         
 6. [Stream Temperature Data collection](#paragraph5)
         
-   
-    
-
-
-
-
-
-
-
-
+<br>
+<br>
 
 ## **Introduction** <a name="introduction"></a>
 This repository describes data collection (format, storage,and QAQC), methods and Study locations for the environmental data, Discharge/Flow
