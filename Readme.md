@@ -533,12 +533,12 @@ delete
 
 *Depth Logger Pad with Housing and logger*
 <p align="Left">
-<img src="./Equipment Info/Logger Pads/Pad_with_logger_Housing_from_top.jpg" width="400" height="200" />
+<img src="./Equipment Info/Logger Pads/Pad_with_logger_housing_from_top.jpg" width="400" height="200" />
 </p>
 
 *Pad from side Logger installed*
 <p align="Left">
-<img src=".\Equipment Info\Logger Pads\Pad_from_side_with_logger_inside_housing.jpg" width="400" height="200" \>
+<img src="./Equipment Info/Logger Pads/Pad_from_side_with_logger_inside_housing.jpg" width="400" height="200" \>
 </p>
 
 
