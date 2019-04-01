@@ -586,7 +586,7 @@ Stream temperature data is collected using a variety of temperture loggers.
 
 *Onset: Tidbit*
 <p align="Left">
-<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/TidbiT-v2-Water-Temperature-Data-Logger-UTBI-001.jpg" width="400" height="200" />
+<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/TidbiT-v2-Water-Temperature-Data-Logger-UTBI-001.jpg" width="400" height="400" />
 </p>
 
 *Onset: Hobo Pendent*
@@ -602,5 +602,5 @@ Stream temperature data is collected using a variety of temperture loggers.
 
 *Onset: Hobo Water Temp Pro V2 with Housing*
 <p align="Left">
-<img src="./Equipment Info/Logger Pads/Temperature_Logger_Housing_with_temperature_loggers.jpg" width="400" height="200" />
+<img src="./Equipment Info/Logger Pads/Temperature_Logger_Housing_with_temperature_loggers.jpg" width="400" height="400" />
 </p>
