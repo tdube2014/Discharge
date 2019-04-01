@@ -469,14 +469,14 @@ This is a sub paragraph, formatted in heading 3 style
 This is a sub paragraph, formatted in heading 3 style
 
 #### Onset <a name="subparagraph18"></a>
-delete
 
 
-<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/HOBO-U20-Water-Level-Data-Logger-U20-001-02.jpg"  width="400" height="200"/>
+
+<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/HOBO-U20-Water-Level-Data-Logger-U20-001-02.jpg"  />
 
 <br>
 
-<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/Onset Level Logger Housings.jpg"  width="400" height="200"/>
+<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/Onset Level Logger Housings.jpg"  width="800" height="400"/>
 
 
  [Onset pdf](./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Documentation/12315-I U20 Manual.pdf)
@@ -586,7 +586,7 @@ Stream temperature data is collected using a variety of temperture loggers.
 
 *Onset: Tidbit*
 <p align="Left">
-<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/TidbiT-v2-Water-Temperature-Data-Logger-UTBI-001.jpg" width="400" height="200" />
+<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/TidbiT-v2-Water-Temperature-Data-Logger-UTBI-001.jpg" width="400" height="200 " />
 </p>
 
 *Onset: Hobo Pendent*
@@ -602,5 +602,5 @@ Stream temperature data is collected using a variety of temperture loggers.
 
 *Onset: Hobo Water Temp Pro V2 with Housing*
 <p align="Left">
-<img src="./Equipment Info/Logger Pads/Temperature_Logger_Housing_with_temperature_loggers.jpg" width="400" height="200" />
+<img src="./Equipment Info/Logger Pads/Temperature_Logger_Housing_with_temperature_loggers.jpg" width="400" height="1000" />
 </p>
