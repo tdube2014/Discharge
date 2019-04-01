@@ -340,34 +340,39 @@ On Google Earth/maps Obear is labeled Ground Brook.
 + Study
     - YOY development
     - Eco-Drought
+<br>
+<br>
+<br>
     
     
-    
-    
-*Deerfield River Winter 2019* 
-
+**Deerfield River Winter 2019**
+<br>
+<br>
 </p>
 <p align="center">
   <img src="./Images/Stream Images/Deerfield Winter.jpg" width="800" title="Deerfield River Winter">
 </p>
 </p>
+\
+
+
+
+
 
 ## **Discharge Data collection** <a name="paragraph2"></a>
+
+\
+\
+
 *Collecting Discharge Data*
 </p>
 <p align="center">
-  <img src="./Images/Field Work Images/Discharge data Collection.jpg" title="Discharge Data Collection">
+  <img src="./Images/Field Work Images/Discharge data Collection fix.jpg" title="Discharge Data Collection">
 </p>
-</p>
-</p>
-
-</p>
-<p align="center">
-  <img src="./Images/Field Work Images/Cody.jpg"height:300px; title="Discharge Data Collection">
-</p>
-</p>
-</p>
-
+\
+\
+\
+*Avery Waterfall*
 </p>
 <p align="center">
   <img src="./Images/Field Work Images/Avery waterfall.jpg" {
@@ -378,19 +383,18 @@ On Google Earth/maps Obear is labeled Ground Brook.
 </p>
 </p>
 
-</p>
+*Logger Maintenance*
 <p align="center">
-  <img src="./Images/Field Work Images/Avery Waterfall Tall.jpg" title="Discharge Data Collection">
+  <img src="./Images/Field Work Images/Avery Mike and Logger test.jpg" width="600" height="300" title="Dicharge Logger  Maintenance">
+</p>
 </p>
 </p>
 </p>
 
-</p>
-<p align="center">
-  <img src="./Images/Field Work Images/Avery Mike and Logger.jpg" width="1960px" height="4032px" title="Discharge Data Collection">
-</p>
-</p>
-</p>
+
+
+
+
 
 ### Download Schedule <a name="subparagraph13"></a>
 This is a sub paragraph, formatted in heading 3 style
