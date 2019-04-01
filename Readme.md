@@ -61,6 +61,8 @@
       
         4.[Flow Cams](#subparagraph25)
         
+6. [Stream Temperature Data collection](#paragraph5)
+        
    
     
 
@@ -351,7 +353,44 @@ On Google Earth/maps Obear is labeled Ground Brook.
 </p>
 
 ## **Discharge Data collection** <a name="paragraph2"></a>
+*Collecting Discharge Data*
+</p>
+<p align="center">
+  <img src="./Images/Field Work Images/Discharge data Collection.jpg" title="Discharge Data Collection">
+</p>
+</p>
+</p>
 
+</p>
+<p align="center">
+  <img src="./Images/Field Work Images/Cody.jpg"height:300px; title="Discharge Data Collection">
+</p>
+</p>
+</p>
+
+</p>
+<p align="center">
+  <img src="./Images/Field Work Images/Avery waterfall.jpg" {
+  width: 1960px;
+  height: 4032px;
+}title="Discharge Data Collection">
+</p>
+</p>
+</p>
+
+</p>
+<p align="center">
+  <img src="./Images/Field Work Images/Avery Waterfall Tall.jpg" title="Discharge Data Collection">
+</p>
+</p>
+</p>
+
+</p>
+<p align="center">
+  <img src="./Images/Field Work Images/Avery Mike and Logger.jpg" width="1960px" height="4032px" title="Discharge Data Collection">
+</p>
+</p>
+</p>
 
 ### Download Schedule <a name="subparagraph13"></a>
 This is a sub paragraph, formatted in heading 3 style
@@ -359,10 +398,10 @@ This is a sub paragraph, formatted in heading 3 style
 ### Transect SOPs <a name="subparagraph14"></a>
 
 #### Equipment 
-+ Flow Meter 
 
-+ Meter Stick
-+ Measuring Tape 
++ Flow Meter Flowtracker/ADV
++ Yard Stick
++ Measuring Tape / 10ths of Ft
 + Depth Chart
 + Data book Pencil
 + Waders
@@ -386,15 +425,16 @@ rewriting for flow tracker
 
 1. Tighten a measuring tape across the stream at right angles to the flow. It should be taut and not sag in the middle.
 2. Measure the total stream width and record this measurement. 
-3. The standard method is to divide the width by 20, This will be done for brooks such as West Brook and Roaring Brook. Tribs  such as Mitchell, Obear and West Whatley will be measured every 10cm.
+3. The standard method is to divide the width by 20, This will be done for all brooks.
 4. Place Meter ( Rod held vertical, Meter directed into flow) at first measuring point. Always stand downstream of tape and measurement.
 5. Record the distance to the bank. Measure total stream depth and record this depth. If the stream Is less than 2.5 ft/.76m we will take the V measurement at .6 depth, deeper than 2.5ft/.76 the V measurement will be taken at .2 and .8 of depth [(Discharge Measurement Heights.xlsx)](https://github.com/tdube2014/Discharge/blob/master/Data/Discharge%20Measurement%20Heights.xlsx). Repeat until you have completed transect. (It is common to record three measurements at each point and then take the average.)
 
 ## **Flow Cam Discharge Data collection** <a name="paragraph3"></a>
 
-####  Flow Cam Introduction
 
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Flow%20Cam/Images/119876C_1.jpg" width="150" height="150" />
+
+####  Flow Cam Introduction
+<img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="150" height=auto />
 
 
 
@@ -441,57 +481,65 @@ This is a sub paragraph, formatted in heading 3 style
 delete
 
 
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/Onset%20HOBO%20U20-001-01-TI/Images/HOBO-U20-Water-Level-Data-Logger-U20-001-02.jpg"  width="250" height="150"/>
+<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/HOBO-U20-Water-Level-Data-Logger-U20-001-02.jpg"  width="250" height="150"/>
 
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/Onset%20HOBO%20U20-001-01-TI/Images/Onset%20Level%20Logger%20Housings.jpg"  width="250" height="150"/>
+<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/Onset Level Logger Housings.jpg"  width="250" height="150"/>
 
 
- [Onset pdf](https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/Onset%20HOBO%20U20-001-01-TI/Documentation/12315-I%20U20%20Manual.pdf)
+ [Onset pdf](./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Documentation/12315-I U20 Manual.pdf)
 
 #### In-Situ <a name="subparagraph19"></a>
 
 <p>The Level TROLL 500 logs continuous measurements of water level, water pressure, and temperature. Titanium construction offers durability and long-lasting performance in fresh or saline groundwater environments. Available in vented (gauged) pressure ranges up to 1153 ft (351 m).<p> 
 
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="300" height="300" />
+<img src="./Equipment Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="300" height="300" />
 
-[Level Troll 500 pdf](https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Documentation/Level-TROLL-400-500-700-700h_Manual.pdf)
+[Level Troll 500 pdf](./Equipment Info/Loggers/In-Situ/Documentation/Level-TROLL-400-500-700-700h_Manual.pdf)
 
 
 
 #### Solinst <a name="subparagraph20"></a>
 
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="200" height="100" />
+<img src="./Equipment Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="200" height="100" />
 
 
 
-[Solinst Logger pdf](https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Documentation/Level-TROLL-400-500-700-700h_Manual.pdf)
+[Solinst Logger pdf](./Equipment Info/Loggers/In-Situ/Documentation/Level-TROLL-400-500-700-700h_Manual.pdf)
 
 ### **Data Logger Deployment/ Pads** <a name="subparagraph17"></a>
 
-*Deerfield River Winter*
-[Logger Pad]<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Logger%20Pads/Depth_Logger_and_Housing.jpg" width="400" height="200" /> 
 
-*Deerfield River Winter*
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Logger%20Pads/Pad_Long_Side.jpg" width="400" height="200" />
+*Depth Logger and Housing*
+<p align="Left">
+<img src="./Equipment Info/Logger Pads/Depth_Logger_and_Housing.jpg" width="400" height="200" /> 
+</p>
+
+*Pad From Top*
+<p align="Left">
+<img src="./Equipment Info/Logger Pads/Pad_from_Top.jpg" width="400" height="200" />
+</p>
+
+*Depth Logger Long Side*
+<p align="Left">
+<img src="./Equipment Info/Logger Pads/Pad_Long_Side.jpg" width="400" height="200" />
+</p>
+
+*Depth Logger Short Side*
+<p align="Left">
+<img src="./Equipment Info/Logger Pads/Pad_Short_Side.jpg" width="400" height="200" />
+</p>
+
+*Depth Logger Pad with Housing and logger*
+<p align="Left">
+<img src="./Equipment Info/Logger Pads/Pad_with_logger_Housing_from_top.jpg" width="400" height="200" />
+</p>
+
+*Pad from side Logger installed*
+<p align="Left">
+<img src=".\Equipment Info\Logger Pads\Pad_from_side_with_logger_inside_housing.jpg" width="400" height="200" \>
+</p>
 
 
-
-*Deerfield River Winter* <img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Logger%20Pads/Pad_Long_Side.jpg" width="400" height="200" />
-
-
-
-
-<img src=".\Equipment Info\Logger Pads\Pad_from_side_with_logger_iside_housing.jpg" width="200" height="100" />
-
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="200" height="100" />
-
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="200" height="100" />
-
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="200" height="100" />
-
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="300" height="300" /><img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="300" height="300" />
-
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Loggers/In-Situ/Images/Level_TROLL_500_.jpg" width="300" height="300" />
 
 
 ### Flow Cams <a name="subparagraph21"></a>
@@ -513,18 +561,42 @@ We are exploring the usefulness of digital photos as a affordable method of asse
 + Collect digital Photos 
 
 
-<img src="https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Flow%20Cam/Images/119876C_1.jpg" width="300" height="300" />
-
 <img src="./Equipment Info/Flow Cam/Images/119876C_1.jpg" width="300" height="300" />
 
-[Game Cam pdf](https://github.com/tdube2014/Discharge/blob/master/Equipment%20Info/Flow%20Cam/Documentation/119874C-119875C-119876C-119877C-Trophy-Cam-HD-Aggressor.pdf)
+
+[Game Cam pdf](./Equipment Info/Flow Cam/Documentation/119874C-119875C-119876C-119877C-Trophy-Cam-HD-Aggressor.pdf)
 This is a sub paragraph, formatted in heading 3 style
 
 
 
 
 
-[Level Troll 500 pdf](https://github.com/tdube2014/Discharge/tree/master/Equipment/In%20-Situ)
+[Level Troll 500 pdf](./Equipment/In-Situ/Documentation/Level-TROLL-400-500-700-700h_Manual.pdf)
 
 
-<img src="https://github.com/tdube2014/Discharge/tree/master/Equipment%20Info/Loggers/Onset%20HOBO%20U20-001-01-TI/Images" width="250" height="150" />
+
+
+## Stream Temperature Data collection <a name="paragraph5"></a>
+
+Stream temperature data is collected using a variety of temperture loggers.
+
+*Onset: Tidbit*
+<p align="Left">
+<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/TidbiT-v2-Water-Temperature-Data-Logger-UTBI-001.jpg" width="400" height="200" />
+</p>
+
+*Onset: Hobo Pendent*
+<p align="Left">
+<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/HOBO-Pendant-Temperature-Alarm-Data-Logger-64K-UA-001-64.jpg" width="400" height="200" />
+</p>
+
+*Onset: HOBO U22-001*
+<p align="Left">
+<img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/U22-001.jpg" width="400" height="200" />
+</p>
+
+
+*Onset: Hobo Water Temp Pro V2 with Housing*
+<p align="Left">
+<img src="./Equipment Info/Logger Pads/Temperature_Logger_Housing_with_temperature_loggers.jpg" width="400" height="200" />
+</p>
