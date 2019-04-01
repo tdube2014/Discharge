@@ -310,7 +310,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
     - YOY development
     - Eco-Drought
     
- ### Mitchell OS (Open Small)<a name="subparagraph16"></a> 
+### Mitchell OS (Open Small)<a name="subparagraph16"></a> 
 + GPS    42°26'0.29"N 72°40'5.97"W
     - [Mitchell Brook](https://github.com/tdube2014/Discharge/blob/master/Images/Stream%20Images/Mitchell%20Brook%20Study%20Site.jpg)  _Google earth image with study site marked out_
     - [MItchell Brook Virtual](https://www.google.com/maps/@42.4368272,-72.6648452,16.75z)  _Link to Google Maps_
@@ -372,6 +372,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 <br>
 <br>
 <br>
+
 *Avery Waterfall*
 
 <p align="center">
@@ -380,6 +381,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 <br>
 <br>
 <br>
+
 *Logger Maintenance*
 
 <p align="center">
