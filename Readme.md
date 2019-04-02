@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img src="./Images/Stream Images/Avery.JPG" width="800" title="Avery Brook">
+  <img src="./Images/Stream Images/YOY Map Final levels.png" width="800" title="Stream Locations map">
 </p>
 
 <br>
@@ -47,7 +47,6 @@
 
 5. [Flow Cam Time Lapse Discharge Data collection](#paragraph4)
  
-
     5. [Data Loggers](#subparagraph21)
     
         1.[Onset](#subparagraph22)
@@ -63,6 +62,8 @@
 <br>
 <br>
 
+
+
 ## **Introduction** <a name="introduction"></a>
 This repository describes data collection (format, storage,and QAQC), methods and Study locations for the environmental data, Discharge/Flow
 
@@ -70,10 +71,16 @@ This repository describes data collection (format, storage,and QAQC), methods an
 
 ### Stream Locations Map <a name="subparagraph1"></a>
 *Western Massachusetts Study Sites*
-
+<br>
+<br>
+*Avery Brook*
 <p align="center">
-  <img src="./Images/Stream Images/YOY Map Final levels.png" width="800" title="Stream Locations map">
+  <img src="./Images/Stream Images/Avery.JPG" width="800" title="Avery Brook">
 </p>
+
+<br>
+<br>
+
 
 ### Avery Brook <a name="subparagraph2"></a>
 
@@ -586,7 +593,7 @@ Stream temperature data is collected using a variety of temperture loggers.
 
 *Onset: Tidbit*
 <p align="Left">
-<<<<<<< HEAD
+
 <img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/TidbiT-v2-Water-Temperature-Data-Logger-UTBI-001.jpg" width="400" height="200 " />
 
 <img src="./Equipment Info/Loggers/Onset HOBO U20-001-01-TI/Images/TidbiT-v2-Water-Temperature-Data-Logger-UTBI-001.jpg" width="400" height="400" />
@@ -605,7 +612,7 @@ Stream temperature data is collected using a variety of temperture loggers.
 
 *Onset: Hobo Water Temp Pro V2 with Housing*
 <p align="Left">
-<<<<<<< HEAD
+
 <img src="./Equipment Info/Logger Pads/Temperature_Logger_Housing_with_temperature_loggers.jpg" width="400" height="1000" />
 
 <img src="./Equipment Info/Logger Pads/Temperature_Logger_Housing_with_temperature_loggers.jpg" width="400" height="400" />
