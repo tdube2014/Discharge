@@ -450,10 +450,10 @@ The purpose of this section is to establish a permanent, benchmark reference sit
    [(Discharge Measurement Heights.xlsx)](https://github.com/tdube2014/Discharge/blob/master/Data/Discharge%20Measure
    ment%20Heights.xlsx). Follow instructions on ADV and complete transect. 
 12.End section.
-13 Take endin tape down measurement. ( this must be coinside with data logger collection interval, ie. every 15          min from the hour)
-13 QA/QC on Flowtracker ADV. Repeat or add sections as neccessary.
-14 Download data to laptop and inspect on flowtracker software.
-15 Retake if neccessary.
+13. Take endin tape down measurement. ( this must be coinside with data logger collection interval, ie. every 15          min from the hour)
+14. QA/QC on Flowtracker ADV. Repeat or add sections as neccessary.
+15. Download data to laptop and inspect on flowtracker software.
+16. Retake if neccessary.
 
 
 ## **Flow Cam Discharge Data collection** <a name="paragraph3"></a>
