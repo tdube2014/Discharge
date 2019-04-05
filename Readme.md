@@ -395,14 +395,26 @@ This is a sub paragraph, formatted in heading 3 style
 
 ### Transect SOPs <a name="subparagraph14"></a>
 
-#### Equipment 
+#### Equipment for Velocity Measurements 
 
 + Flow Meter Flowtracker/ADV
++ Top Setting Wading Rod
++ Thermometer
 + Yard Stick
-+ Measuring Tape / 10ths of Ft
++ Measuring Tape / Decimal Foot
 + Depth Chart
-+ Data book Pencil
++ Data book / Pencil
 + Waders
++ Stakes
++ AA Batteries
++ Small Screwdriver
++ laptop 
++ download cables and attachments
+
+#### Equipment for Benchmarks
++ all the above Plus
++ Surveyor's Level
++ Grade Rod
 
 
 
@@ -411,7 +423,7 @@ This is a sub paragraph, formatted in heading 3 style
 
 Transect site should be in a free flowing run, straight with uniform unobstructed flow.
 There should not be any side channels, so that all the water flows through the main channel. 
-Avoid pools, do not select areas where there is excess woody debris or large boulders. These characteristics can disturb flow creating turbulence, eddies and slack water. Be conscious of how the flow is affected by tributaries and if you want that include tributary discharge in your measurement. 
+Avoid pools, do not select areas where there is excess woody debris or large boulders. These characteristics can disturb flow creating turbulence, eddies and slack water. Be conscious of how the flow is affected by tributaries and if you want to include tributary discharge in your measurement. 
 
 #### Stream Channel Reference Sites
 The purpose of this section is to establish a permanent, benchmark reference site.
@@ -419,13 +431,30 @@ The purpose of this section is to establish a permanent, benchmark reference sit
 
 
 #### Recording Discharge Measurements
-rewriting for flow tracker
 
-1. Tighten a measuring tape across the stream at right angles to the flow. It should be taut and not sag in the middle.
-2. Measure the total stream width and record this measurement. 
-3. The standard method is to divide the width by 20, This will be done for all brooks.
-4. Place Meter ( Rod held vertical, Meter directed into flow) at first measuring point. Always stand downstream of tape and measurement.
-5. Record the distance to the bank. Measure total stream depth and record this depth. If the stream Is less than 2.5 ft/.76m we will take the V measurement at .6 depth, deeper than 2.5ft/.76 the V measurement will be taken at .2 and .8 of depth [(Discharge Measurement Heights.xlsx)](https://github.com/tdube2014/Discharge/blob/master/Data/Discharge%20Measurement%20Heights.xlsx). Repeat until you have completed transect. (It is common to record three measurements at each point and then take the average.)
+
+1. Note time and take River temperture
+2. Log weather conditions; Sunny or cloudy, Air temp, Wind speed and Wind direction
+3. Tighten a measuring tape across the stream at right angles to the flow. It should be taut and not sag in the          middle.
+4. Take starting tape down measurement. ( this must be coinside with data logger collection interval, ie. every 15 min
+   from the hour)
+5. Measure the total stream width and record this measurement. 
+6. Divide the width by 25, Round down value. Transect measurements cannot be complete at a interval less than .20ft in    distance across the stream. Measurements must be in at least .20 ft of water as well.
+7. Turn on Flowtracker ADV and make sure that battery power is sufficent to complete transect.
+8. Place ADV in stream and do self test. ( Rod held vertical, Meter directed into flow) at first measuring point.
+   Always stand downstream of tape and measurement.
+9. Determine mesurement direction LEW/REW   
+10. Begin at starting edge. No measurement.
+11.Take first measurement. Use a correction factor if neccessary. At depths under 1.5 ft we will take the V
+   measurement at .6 depth, deeper than 1.5 ft two  Velocity  measurement will be taken at .2 and .8 of depth
+   [(Discharge Measurement Heights.xlsx)](https://github.com/tdube2014/Discharge/blob/master/Data/Discharge%20Measure
+   ment%20Heights.xlsx). Follow instructions on ADV and complete transect. 
+12.End section.
+13 Take endin tape down measurement. ( this must be coinside with data logger collection interval, ie. every 15          min from the hour)
+13 QA/QC on Flowtracker ADV. Repeat or add sections as neccessary.
+14 Download data to laptop and inspect on flowtracker software.
+15 Retake if neccessary.
+
 
 ## **Flow Cam Discharge Data collection** <a name="paragraph3"></a>
 
