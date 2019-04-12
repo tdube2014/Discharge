@@ -399,6 +399,8 @@ This is a sub paragraph, formatted in heading 3 style
 
 + Flow Meter Flowtracker/ADV
 + Top Setting Wading Rod
++ First Aid Kit
++ PFDs
 + Thermometer
 + Yard Stick
 + Measuring Tape / Decimal Foot
