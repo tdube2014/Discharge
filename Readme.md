@@ -387,7 +387,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 <br>
 <br>
 
-<img src="./Images/Peg%20Test%20Images/Peg%20Test%20Fig%201.png" title="Figure 1"
+
 
 
 ### Download Schedule <a name="subparagraph13"></a>
@@ -462,7 +462,7 @@ Pick a realatively level area approximately 150 feet long. Initial setup is cond
 <br>
 <br>
 
-Take the data recorded and input into SVmobile Station levels Collimation Test. Calculate collimation error. If the error is outside of allowable tolerances redo test. If instrument continues to fail, calibrate or contact service technician. 
+Take the data recorded and input into SVmobile Station Levels Collimation Test. Calculate collimation error. If the error is outside of allowable tolerances redo test. If instrument continues to fail, calibrate or contact service technician. 
 <br>
 <br>
 <br>
