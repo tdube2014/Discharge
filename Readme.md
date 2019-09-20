@@ -434,9 +434,7 @@ Pick a realatively level area approximately 150 feet long. Initial setup is cond
 <p align="center">
   <img src="Images/Peg Test Images/Peg Test Fig 1.png" title="Peg Test Fig 1">
 </p>
-<br>
-<br>
-<br>
+
 
  Place a level rod on Peg D. Shoot the elavation from Peg C to Peg D (near elavation). Record elevation and distance **(Figure 2a)**. Rotate level 180 degrees, move level rod to Peg A and shoot elevation from Peg C to Peg A (far elevation). Record elevation and distance. **(Figure 2b)** Do not move level rod form Peg A.
 <br>
@@ -465,9 +463,9 @@ Pick a realatively level area approximately 150 feet long. Initial setup is cond
 <br>
 
 Take the data recorded and input into SVmobile Station levels Collimation Test. Calculate collimation error. If the error is outside of allowable tolerances redo test. If instrument continues to fail, calibrate or contact service technician. 
-br>
 <br>
-<br
+<br>
+<br>
 #### Selecting a transect Site 
 
 Transect site should be in a free flowing run, straight with uniform unobstructed flow.
