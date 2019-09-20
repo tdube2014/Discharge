@@ -387,7 +387,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 <br>
 <br>
 
-
+<img src="./Images/Peg%20Test%20Images/Peg%20Test%20Fig%201.png" title="Figure 1"
 
 
 ### Download Schedule <a name="subparagraph13"></a>
@@ -418,9 +418,56 @@ This is a sub paragraph, formatted in heading 3 style
 + Surveyor's Level
 + Grade Rod
 
+#### Peg Test 
 
 
+The purpose of the peg test is to determine the collimation error of a level instrument.
 
+
+Prior to using the surveyors level it must be tested for accuracy.  Asessing the performance of the level is very important. The main error is where the line of sight is not parallel to the horizontal line of collimation. This test will be performed at the begining and the end to onsure that the instrument is working properly. Performe additional tests if you feel that instrument may have been bummped, jarred or not functioning properly.
+
+Pick a realatively level area approximately 150 feet long. Initial setup is conducted by establishing four points of measurement (Peg A, Peg B, Peg C and Peg D) at the distances illustrated in figure one. Once the pegs have been installed proceed to setup surveyors level at Peg C. You may determine the elavation of the level that is convienient for the site chosen. This will be level height A..
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img src="Images/Peg Test Images/Peg Test Fig 1.png" title="Peg Test Fig 1">
+</p>
+<br>
+<br>
+<br>
+
+ Place a level rod on Peg D. Shoot the elavation from Peg C to Peg D (near elavation). Record elevation and distance **(Figure 2a)**. Rotate level 180 degrees, move level rod to Peg A and shoot elevation from Peg C to Peg A (far elevation). Record elevation and distance. **(Figure 2b)** Do not move level rod form Peg A.
+<br>
+<br>
+<br>
+ 
+<p align="center">
+  <img src="Images/Peg Test Images/Peg Test Fig 2.png" title="Peg Test Fig 2">
+</p>
+<br>
+<br>
+<br>
+
+                                                                               
+  At this point, while keeping your level rod on Peg A, move the surveyors level to Peg B. Adjust the elevation of the surveyors level up, Level the instrument. This will be level height B.  Shoot the elevation from Peg B to Peg A. Record elevation and distance **(Figure 3a)**. Rotate level 180 degrees, move level rod to Peg D and shoot elevation from Peg B to Peg D. Record elevation and distance **(Figure 3b)** .  
+<br>
+<br>
+<br>
+  
+  
+ <p align="center">
+  <img src="Images/Peg Test Images/Peg Test Fig 3.png" title="Peg Test Fig 3">
+</p>  
+<br>
+<br>
+<br>
+
+Take the data recorded and input into SVmobile Station levels Collimation Test. Calculate collimation error. If the error is outside of allowable tolerances redo test. If instrument continues to fail, calibrate or contact service technician. 
+br>
+<br>
+<br
 #### Selecting a transect Site 
 
 Transect site should be in a free flowing run, straight with uniform unobstructed flow.
