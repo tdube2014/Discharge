@@ -38,6 +38,7 @@
 
 3. [Discharge Data collection](#paragraph2)
 
+
     1. [Download Schedule](#subparagraph17)
     2. [Transect SOPs](#subparagraph18) 
     3. [Data QA/QC](#subparagraph19)
@@ -693,3 +694,16 @@ Stream temperature data is collected using a variety of temperture loggers.
 
 <img src="./Equipment Info/Logger Pads/Temperature_Logger_Housing_with_temperature_loggers.jpg" width="400" height="400" />
 
+
+
++---------------------------------------+
+|                Results                |
++---------------------------------------+
+|             |        Contestant       |
++ Competition +-------------------------+
+|             |  John | Andrea | Robert |
++-------------+-------+--------+--------+
+| Swimming    |  1:30 |   2:05 |   1:15 |
++-------------+-------+--------+--------+
+| Running     | 15:30 |  14:10 |  15:45 |
++-------------+-------+--------+--------+
