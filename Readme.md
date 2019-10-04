@@ -521,7 +521,9 @@ Select a location to be your turning point location. Install a wedge bolt anchor
 <br>
 <br>
 <br>
-Set up the surveyor’s level on solid ground. Level the instrument. Start shooting elevations starting with RM 1 making sure that level is in focus and that surveyors rod is also level and stable. Shoot elevations for remaining RM locations and RP locations.  
+ 
+Set up the surveyor’s level on solid ground. Level the instrument. Start shooting elevations starting with RM 1 making sure that level is in focus and that surveyors rod is also level and stable. Record elevation and input data into SVQmax. Shoot elevations for remaining RM locations and RP locations. Record and enter data. 
+ 
 <br>
 <br>
 <br>
@@ -531,7 +533,7 @@ Set up the surveyor’s level on solid ground. Level the instrument. Start shoot
 <br>
 <br>
 <br>
-Shoot an elevation for the water level (water mark). 
+Shoot an elevation for the water level (water mark). Record and enter data.
 <br>
 <br>
 <br>
@@ -541,7 +543,17 @@ Shoot an elevation for the water level (water mark).
 <br>
 <br>
 <br>
-
+Shoot elevation at your turning point location. Do not move surveyors rod. Record and enter data. Adjust surveyors’ level up, stabilize and instrument. Shoot turning point again at new height, record and enter elevation data. Check elevation error.  If the error is outside of allowable tolerances redo turning point.
+<br>
+<br>
+<br>
+ <p align="center">
+  <img src="Images/Levels/levels Shoot Turning point.jpg">
+</p>  
+<br>
+<br>
+<br>
+If the error is within allowable tolerances continue with all elevations at the new level height. Record and input data, checking elevation error as you go. Redo locations if necessary. Always end with RM 1. 
 
 #### Selecting a transect Site 
 
