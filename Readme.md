@@ -420,14 +420,15 @@ This is a sub paragraph, formatted in heading 3 style
 + Grade Rod
 
 #### Peg Test 
-
-
 The purpose of the peg test is to determine the collimation error of a level instrument.
 
 
-Prior to using the surveyors level it must be tested for accuracy.  Asessing the performance of the level is very important. The main error is where the line of sight is not parallel to the horizontal line of collimation. This test will be performed at the begining and the end to onsure that the instrument is working properly. Performe additional tests if you feel that instrument may have been bummped, jarred or not functioning properly.
+Prior to using the surveyors level, it must be tested for accuracy.  Assessing the performance of the level is very important. The main error is where the line of sight is not parallel to the horizontal line of collimation. This test will be performed at the beginning and the end to ensure that the instrument is working properly. Performed additional tests if you feel that instrument may have been bumped, jarred or not functioning properly.
 
-Pick a realatively level area approximately 150 feet long. Initial setup is conducted by establishing four points of measurement (Peg A, Peg B, Peg C and Peg D) at the distances illustrated in figure one. Once the pegs have been installed proceed to setup surveyors level at Peg C. You may determine the elavation of the level that is convienient for the site chosen. This will be level height A..
+Pick a relatively level area approximately 150 feet long. Initial setup is conducted by establishing four points of measurement (Peg A, Peg B, Peg C and Peg D) at the distances illustrated in figure one. Once the pegs have been installed proceed to setup surveyors’ level at Peg C. You may determine the elevation of the level that is convenient for the site chosen. This will be level height A.
+
+
+
 <br>
 <br>
 <br>
@@ -436,8 +437,8 @@ Pick a realatively level area approximately 150 feet long. Initial setup is cond
   <img src="Images/Peg Test Images/Peg Test Fig 1.png" title="Peg Test Fig 1">
 </p>
 
+Place a level rod on Peg D. Shoot the elevation from Peg C to Peg D (near elevation). Record elevation and distance **(Figure 2a)**. Rotate level 180 degrees, move level rod to Peg A and shoot elevation from Peg C to Peg A (far elevation). Record elevation and distance. **(Figure 2b)** Do not move level rod form Peg A.
 
- Place a level rod on Peg D. Shoot the elavation from Peg C to Peg D (near elavation). Record elevation and distance **(Figure 2a)**. Rotate level 180 degrees, move level rod to Peg A and shoot elevation from Peg C to Peg A (far elevation). Record elevation and distance. **(Figure 2b)** Do not move level rod form Peg A.
 <br>
 <br>
 <br>
@@ -450,7 +451,7 @@ Pick a realatively level area approximately 150 feet long. Initial setup is cond
 <br>
 
                                                                                
-  At this point, while keeping your level rod on Peg A, move the surveyors level to Peg B. Adjust the elevation of the surveyors level up, Level the instrument. This will be level height B.  Shoot the elevation from Peg B to Peg A. Record elevation and distance **(Figure 3a)**. Rotate level 180 degrees, move level rod to Peg D and shoot elevation from Peg B to Peg D. Record elevation and distance **(Figure 3b)** .  
+At this point, while keeping your level rod on Peg A, move the surveyor’s level to Peg B. Adjust the elevation of the surveyors level up, Level the instrument. This will be level height B.  Shoot the elevation from Peg B to Peg A. Record elevation and distance **(Figure 3a)**. Rotate level 180 degrees, move level rod to Peg D and shoot elevation from Peg B to Peg D. Record elevation and distance **(Figure 3b)**.  
 <br>
 <br>
 <br>
