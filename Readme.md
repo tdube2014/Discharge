@@ -468,6 +468,81 @@ Take the data recorded and input into SVmobile Station Levels Collimation Test. 
 <br>
 <br>
 <br>
+
+#### Gauge Pool and Reference Sites
+
+The purpose of this section is to establish permanent reference sites.
+
+
+First select a gauge pool with good control and install pad with pressure transducer.
+<br>
+<br>
+<br>
+  
+  
+ <p align="center">
+  <img src="Images/Levels/Guge pool 1.png">
+</p>  
+<br>
+<br>
+<br>
+
+
+Select reference marks (RM) starting with RM1 being the master reference mark. RM1 should be a Mark outside the high-water line and unlikely to move. This will be the Mark from witch you can rebuild the guage pool if pad or Reference points are disturbed.
+<br>
+<br>
+<br>
+ 
+  
+ <p align="center">
+  <img src="Images/Levels/Levels 2.png">
+</p>  
+<br>
+<br>
+<br>
+
+ Select reference points to record water levels (tape-downs). You should have RPs to cover a high to low flow water levels. These points will also be referred to as your OG (outside gauge) points. Install wedge bolt anchors at each of these locations. Your pad with pressure transducer mounted to it will also have RPs. The transducer is referred to as your IG (inside gauge) point.
+<br>
+<br>
+<br>
+ <p align="center">
+  <img src="Images/Levels/levels 3.png">
+</p>  
+<br>
+<br>
+<br>
+Select a location to be your turning point location. Install a wedge bolt anchor at each this location.
+<br>
+<br>
+<br>
+ <p align="center">
+  <img src="Images/Levels/Levels 4 turning point.png">
+</p>  
+<br>
+<br>
+<br>
+Set up the surveyor’s level on solid ground. Level the instrument. Start shooting elevations starting with RM 1 making sure that level is in focus and that surveyors rod is also level and stable. Shoot elevations for remaining RM locations and RP locations.  
+<br>
+<br>
+<br>
+ <p align="center">
+  <img src="Images/Levels/levels Shoot RM.png">
+</p>  
+<br>
+<br>
+<br>
+Shoot an elevation for the water level (water mark). 
+<br>
+<br>
+<br>
+ <p align="center">
+  <img src="Images/Levels/Levels  Shoot water mark.png">
+</p>  
+<br>
+<br>
+<br>
+
+
 #### Selecting a transect Site 
 
 Transect site should be in a free flowing run, straight with uniform unobstructed flow.
