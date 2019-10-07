@@ -545,7 +545,7 @@ RM Locations
 RP Locations
 <br>
  <p align="center">
-  <img src="Images/Levels/levels Shoot RM.png">
+  <img src="Images/Levels/6 Levels Shoot RP.png">
 </p>  
 <br>
 <br>
