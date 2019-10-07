@@ -473,13 +473,12 @@ Take the data recorded and input into SVmobile Station Levels Collimation Test. 
 
 The purpose of this section is to establish permanent reference sites.
 
-
+**1**
 First select a gauge pool with good control and install pad with pressure transducer.
+
 <br>
 <br>
 <br>
-  
-  1
  <p align="center">
   <img src="Images/Levels/1 Levels Guge Pool.png">
 </p>  
@@ -487,13 +486,12 @@ First select a gauge pool with good control and install pad with pressure transd
 <br>
 <br>
 
-
+**2**
 Select reference marks (RM) starting with RM1 being the master reference mark. RM1 should be a mark outside the high-water line and unlikely to move. This will be the mark from witch you can rebuild the guage pool if pad or reference points are disturbed.
+
 <br>
 <br>
 <br>
- 
-  2
  <p align="center">
   <img src="Images/Levels/2 Levels RM.png">
 </p>  
@@ -501,10 +499,9 @@ Select reference marks (RM) starting with RM1 being the master reference mark. R
 <br>
 <br>
 
-3
+ **3**
  Select reference points to record water levels (tape-downs). You should have RPs to cover a high to low flow water levels. These points will also be referred to as your OG (outside gauge) points. Install wedge bolt anchors at each of these locations. Your pad with pressure transducer mounted to it will also have RPs. The transducer is referred to as your IG (inside gauge) point.
  
- 
 <br>
 <br>
 <br>
@@ -514,9 +511,10 @@ Select reference marks (RM) starting with RM1 being the master reference mark. R
 <br>
 <br>
 <br>
-4
 
+**4**
 Select a location to be your turning point location. Install a wedge bolt anchor at each this location.
+
 <br>
 <br>
 <br>
@@ -527,12 +525,11 @@ Select a location to be your turning point location. Install a wedge bolt anchor
 <br>
 <br>
 
-5
- 
+**5 and 6** 
 Set up the surveyor’s level on solid ground. Level the instrument. Start shooting elevations starting with RM 1 making sure that level is in focus and that surveyors rod is also level and stable. Record elevation and input data into SVQmax. Shoot elevations for remaining RM locations and RP locations. Record and enter data. 
  
 <br>
-RM Locations
+ **5. RM Locations**
 <br>
  <p align="center">
   <img src="Images/Levels/5 levels Shoot RM.png">
@@ -540,7 +537,7 @@ RM Locations
 <br>
 <br>
 <br>
-6
+**6. RP Locations**
 <br>
 RP Locations
 <br>
@@ -551,7 +548,7 @@ RP Locations
 <br>
 <br>
 
-7
+**7**
 Shoot an elevation for the water level (water mark). Record and enter data.
 <br>
 <br>
@@ -564,7 +561,7 @@ Shoot an elevation for the water level (water mark). Record and enter data.
 <br>
 Shoot elevation at your turning point location. Do not move surveyors rod. Record and enter data. Adjust surveyors’ level up, stabilize and instrument. Shoot turning point again at new height, record and enter elevation data. Check elevation error.  If the error is outside of allowable tolerances redo turning point.
 
-8
+**8**
 <br>
 <br>
 <br>
@@ -576,6 +573,9 @@ Shoot elevation at your turning point location. Do not move surveyors rod. Recor
 <br>
 If the error is within allowable tolerances continue with all elevations at the new level height. Record and input data, checking elevation error as you go. Redo locations if necessary. Always end with RM 1. 
 
+<br>
+<br>
+<br>
 #### Selecting a transect Site 
 
 Transect site should be in a free flowing run, straight with uniform unobstructed flow.
