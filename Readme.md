@@ -571,9 +571,12 @@ Shoot an elevation for the water level (water mark). Record and enter data.
 <br>
 <br>
 <br>
-Shoot elevation at your turning point location. Do not move surveyors rod. Record and enter data. Adjust surveyors’ level up, stabilize and instrument. Shoot turning point again at new height, record and enter elevation data. Check elevation error.  If the error is outside of allowable tolerances redo turning point.
 
 **8**
+<br>
+Shoot elevation at your turning point location. Do not move surveyors rod. Record and enter data. Adjust surveyors’ level up, stabilize and instrument. Shoot turning point again at new height, record and enter elevation data. Check elevation error.  If the error is outside of allowable tolerances redo turning point.
+
+
 <br>
 <br>
 <br>
@@ -588,6 +591,7 @@ If the error is within allowable tolerances continue with all elevations at the 
 <br>
 <br>
 <br>
+
 #### Selecting a transect Site 
 
 Transect site should be in a free flowing run, straight with uniform unobstructed flow.
