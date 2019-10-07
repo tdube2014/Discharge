@@ -530,7 +530,7 @@ Select a location to be your turning point location. Install a wedge bolt anchor
 Set up the surveyor’s level on solid ground. Level the instrument. Start shooting elevations starting with RM 1 making sure that level is in focus and that surveyors rod is also level and stable. Record elevation and input data into SVQmax. Shoot elevations for remaining RM locations and RP locations. Record and enter data. 
  
 <br>
- **5. RM Locations**
+ **5 RM Locations**
 <br>
  <p align="center">
   <img src="Images/Levels/5 levels Shoot RM.png">
@@ -538,7 +538,7 @@ Set up the surveyor’s level on solid ground. Level the instrument. Start shoot
 <br>
 <br>
 <br>
-**6. RP Locations**
+**6 RP Locations**
 <br>
 RP Locations
 <br>
