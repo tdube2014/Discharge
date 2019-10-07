@@ -488,7 +488,9 @@ First select a gauge pool with good control and install pad with pressure transd
 <br>
 
 
-**2** Select reference marks (RM) starting with RM1 being the master reference mark. RM1 should be a mark outside the high-water line and unlikely to move. This will be the mark from witch you can rebuild the guage pool if pad or reference points are disturbed.
+**2**
+<br>
+Select reference marks (RM) starting with RM1 being the master reference mark. RM1 should be a mark outside the high-water line and unlikely to move. This will be the mark from witch you can rebuild the guage pool if pad or reference points are disturbed.
 
 <br>
 <br>
@@ -501,6 +503,7 @@ First select a gauge pool with good control and install pad with pressure transd
 <br>
 
  **3**
+ <br>
 Select reference points to record water levels (tape-downs). You should have RPs to cover a high to low flow water levels. These points will also be referred to as your OG (outside gauge) points. Install wedge bolt anchors at each of these locations. Your pad with pressure transducer mounted to it will also have RPs. The transducer is referred to as your IG (inside gauge) point.
  
 <br>
@@ -514,6 +517,7 @@ Select reference points to record water levels (tape-downs). You should have RPs
 <br>
 
 **4**
+<br>
 Select a location to be your turning point location. Install a wedge bolt anchor at each this location.
 
 <br>
@@ -527,6 +531,7 @@ Select a location to be your turning point location. Install a wedge bolt anchor
 <br>
 
 **5 and 6** 
+<br>
 Set up the surveyor’s level on solid ground. Level the instrument. Start shooting elevations starting with RM 1 making sure that level is in focus and that surveyors rod is also level and stable. Record elevation and input data into SVQmax. Shoot elevations for remaining RM locations and RP locations. Record and enter data. 
 
  **RM Locations**.
@@ -539,8 +544,9 @@ Set up the surveyor’s level on solid ground. Level the instrument. Start shoot
 <br>
 <br>
 <br>
+
 **RP Locations**.
-RP Locations
+
 
 <br>
 <br>
@@ -554,6 +560,7 @@ RP Locations
 <br>
 
 **7**
+<br>
 Shoot an elevation for the water level (water mark). Record and enter data.
 <br>
 <br>
