@@ -39,24 +39,24 @@
 3. [Discharge Data collection](#paragraph2)
 
 
-    1. [Download Schedule](#subparagraph17)
-    2. [Transect SOPs](#subparagraph18) 
-    3. [Data QA/QC](#subparagraph19)
-    4. [Data storage](#subparagraph120)
+    1. [Download Schedule](#subparagraph18)
+    2. [Transect SOPs](#subparagraph19) 
+    3. [Data QA/QC](#subparagraph20)
+    4. [Data storage](#subparagraph21)
     
 4. [Flow Cam Discharge Data collection](#paragraph3)
 
 5. [Flow Cam Time Lapse Discharge Data collection](#paragraph4)
  
-    5. [Data Loggers](#subparagraph21)
+    5. [Data Loggers](#subparagraph)
     
-        1.[Onset](#subparagraph22)
+        1.[Onset](#subparagraph)
         
-        2.[In-Situ](#subparagraph23)
+        2.[In-Situ](#subparagraph)
      
-        3.[Solenst](#subparagraph24)
+        3.[Solenst](#subparagraph)
       
-        4.[Flow Cams](#subparagraph25)
+        4.[Flow Cams](#subparagraph)
         
 6. [Stream Temperature Data collection](#paragraph5)
         
@@ -391,10 +391,10 @@ On Google Earth/maps Obear is labeled Ground Brook.
 
 
 
-### Download Schedule <a name="subparagraph13"></a>
+### Download Schedule <a name="subparagraph18"></a>
 This is a sub paragraph, formatted in heading 3 style
 
-### Transect SOPs <a name="subparagraph14"></a>
+### Transect SOPs <a name="subparagraph19"></a>
 
 #### Equipment for Velocity Measurements 
 
