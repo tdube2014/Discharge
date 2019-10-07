@@ -501,7 +501,7 @@ First select a gauge pool with good control and install pad with pressure transd
 <br>
 
  **3**
- Select reference points to record water levels (tape-downs). You should have RPs to cover a high to low flow water levels. These points will also be referred to as your OG (outside gauge) points. Install wedge bolt anchors at each of these locations. Your pad with pressure transducer mounted to it will also have RPs. The transducer is referred to as your IG (inside gauge) point.
+Select reference points to record water levels (tape-downs). You should have RPs to cover a high to low flow water levels. These points will also be referred to as your OG (outside gauge) points. Install wedge bolt anchors at each of these locations. Your pad with pressure transducer mounted to it will also have RPs. The transducer is referred to as your IG (inside gauge) point.
  
 <br>
 <br>
