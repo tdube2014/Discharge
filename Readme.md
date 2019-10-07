@@ -479,53 +479,70 @@ First select a gauge pool with good control and install pad with pressure transd
 <br>
 <br>
   
-  
+  1
  <p align="center">
-  <img src="Images/Levels/Guge pool 1.png">
+  <img src="Images/Levels/1 Levels Guge Pool.png">
 </p>  
 <br>
 <br>
 <br>
 
 
-Select reference marks (RM) starting with RM1 being the master reference mark. RM1 should be a Mark outside the high-water line and unlikely to move. This will be the Mark from witch you can rebuild the guage pool if pad or Reference points are disturbed.
+Select reference marks (RM) starting with RM1 being the master reference mark. RM1 should be a mark outside the high-water line and unlikely to move. This will be the mark from witch you can rebuild the guage pool if pad or reference points are disturbed.
 <br>
 <br>
 <br>
  
-  
+  2
  <p align="center">
-  <img src="Images/Levels/Levels 2.png">
+  <img src="Images/Levels/2 Levels RM.png">
 </p>  
 <br>
 <br>
 <br>
 
+3
  Select reference points to record water levels (tape-downs). You should have RPs to cover a high to low flow water levels. These points will also be referred to as your OG (outside gauge) points. Install wedge bolt anchors at each of these locations. Your pad with pressure transducer mounted to it will also have RPs. The transducer is referred to as your IG (inside gauge) point.
+ 
+ 
 <br>
 <br>
 <br>
  <p align="center">
-  <img src="Images/Levels/levels 3.png">
+  <img src="Images/Levels/2 Levels RM.png">
 </p>  
 <br>
 <br>
 <br>
+4
+
 Select a location to be your turning point location. Install a wedge bolt anchor at each this location.
 <br>
 <br>
 <br>
  <p align="center">
-  <img src="Images/Levels/Levels 4 turning point.png">
+  <img src="Images/Levels/4 Levels turning point.png">
 </p>  
 <br>
 <br>
 <br>
+
+5
  
 Set up the surveyor’s level on solid ground. Level the instrument. Start shooting elevations starting with RM 1 making sure that level is in focus and that surveyors rod is also level and stable. Record elevation and input data into SVQmax. Shoot elevations for remaining RM locations and RP locations. Record and enter data. 
  
 <br>
+RM Locations
 <br>
+ <p align="center">
+  <img src="Images/Levels/5 levels Shoot RM.png">
+</p>  
+<br>
+<br>
+<br>
+6
+<br>
+RP Locations
 <br>
  <p align="center">
   <img src="Images/Levels/levels Shoot RM.png">
@@ -533,22 +550,26 @@ Set up the surveyor’s level on solid ground. Level the instrument. Start shoot
 <br>
 <br>
 <br>
+
+7
 Shoot an elevation for the water level (water mark). Record and enter data.
 <br>
 <br>
 <br>
  <p align="center">
-  <img src="Images/Levels/Levels  Shoot water mark.png">
+  <img src="Images/Levels/7 Levels Shoot Water Mark.png">
 </p>  
 <br>
 <br>
 <br>
 Shoot elevation at your turning point location. Do not move surveyors rod. Record and enter data. Adjust surveyors’ level up, stabilize and instrument. Shoot turning point again at new height, record and enter elevation data. Check elevation error.  If the error is outside of allowable tolerances redo turning point.
+
+8
 <br>
 <br>
 <br>
  <p align="center">
-  <img src="Images/Levels/levels Shoot Turning point.jpg">
+  <img src="Images/Levels/8 Levels Shoot Turning Point.png">
 </p>  
 <br>
 <br>
