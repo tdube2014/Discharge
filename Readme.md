@@ -473,7 +473,8 @@ Take the data recorded and input into SVmobile Station Levels Collimation Test. 
 
 The purpose of this section is to establish permanent reference sites.
 
-**1**
+**1** 
+<br>
 First select a gauge pool with good control and install pad with pressure transducer.
 
 <br>
@@ -486,8 +487,8 @@ First select a gauge pool with good control and install pad with pressure transd
 <br>
 <br>
 
-**2**
-Select reference marks (RM) starting with RM1 being the master reference mark. RM1 should be a mark outside the high-water line and unlikely to move. This will be the mark from witch you can rebuild the guage pool if pad or reference points are disturbed.
+
+**2** Select reference marks (RM) starting with RM1 being the master reference mark. RM1 should be a mark outside the high-water line and unlikely to move. This will be the mark from witch you can rebuild the guage pool if pad or reference points are disturbed.
 
 <br>
 <br>
