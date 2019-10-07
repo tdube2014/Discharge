@@ -39,7 +39,7 @@
 3. [Discharge Data collection](#paragraph2)
 
 
-    1. [Download Schedule](#subparagraph18)
+    1. [ECO-Drought Project](#subparagraph18)
     2. [Transect SOPs](#subparagraph19) 
     3. [Data QA/QC](#subparagraph20)
     4. [Data storage](#subparagraph21)
@@ -391,7 +391,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 
 
 
-### Download Schedule <a name="subparagraph18"></a>
+### ECO-Drought Project <a name="subparagraph18"></a>
 This is a sub paragraph, formatted in heading 3 style
 
 ### Transect SOPs <a name="subparagraph19"></a>
