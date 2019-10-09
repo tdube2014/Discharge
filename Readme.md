@@ -417,7 +417,7 @@ This is a sub paragraph, formatted in heading 3 style
 #### Equipment for Benchmarks
 + all the above Plus
 + Surveyor's Level
-+ Grade Rod
++ Surveyor's Rod
 
 #### Peg Test 
 The purpose of the peg test is to determine the collimation error of a level instrument.
