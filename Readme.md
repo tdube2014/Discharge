@@ -40,9 +40,12 @@
 
 
     1. [ECO-Drought Project](#subparagraph18)
-    2. [Transect SOPs](#subparagraph19) 
-    3. [Data QA/QC](#subparagraph20)
-    4. [Data storage](#subparagraph21)
+    2. [Gage Pool and Reference Site SOPs](#subparagraph19) 
+    3. [Transect SOPs](#subparagraph20)
+    4. [Data QA/QC](#subparagraph21)
+    5. [Data storage](#subparagraph22)
+    
+    
     
 4. [Flow Cam Discharge Data collection](#paragraph3)
 
