@@ -591,14 +591,9 @@ Shoot elevation at your turning point location. Do not move surveyors rod. Recor
 <br>
 If the error is within allowable tolerances continue with all elevations at the new level height. Record and input data, checking elevation error as you go. Redo locations if necessary. Always end with RM 1. 
 
-<br>
-<br>
-<br>
 ### Transect SOPs <a name="subparagraph20"></a>
 
-<br>
-<br>
-<br>
+
 #### Selecting a transect Site 
 
 Transect site should be in a free flowing run, straight with uniform unobstructed flow.
