@@ -394,7 +394,7 @@ On Google Earth/maps Obear is labeled Ground Brook.
 ### ECO-Drought Project <a name="subparagraph18"></a>
 This is a sub paragraph, formatted in heading 3 style
 
-### Transect SOPs <a name="subparagraph19"></a>
+### Gage Pool and Reference Site SOPs <a name="subparagraph19"></a>
 
 #### Equipment for Velocity Measurements 
 
@@ -469,13 +469,13 @@ Take the data recorded and input into SVmobile Station Levels Collimation Test. 
 <br>
 <br>
 
-#### Gauge Pool and Reference Sites
+#### Gage Pool and Reference Sites
 
 The purpose of this section is to establish permanent reference sites.
 
 **1** 
 <br>
-First select a gauge pool with good control and install pad with pressure transducer.
+First select a gage pool with good control and install pad with pressure transducer.
 
 <br>
 <br>
@@ -490,7 +490,7 @@ First select a gauge pool with good control and install pad with pressure transd
 
 **2**
 <br>
-Select reference marks (RM) starting with RM1 being the master reference mark. RM1 should be a mark outside the high-water line and unlikely to move. This will be the mark from witch you can rebuild the guage pool if pad or reference points are disturbed.
+Select reference marks (RM) starting with RM1 being the master reference mark. RM1 should be a mark outside the high-water line and unlikely to move. This will be the mark from witch you can rebuild the gage pool if pad or reference points are disturbed.
 
 <br>
 <br>
@@ -504,7 +504,7 @@ Select reference marks (RM) starting with RM1 being the master reference mark. R
 
  **3**
  <br>
-Select reference points to record water levels (tape-downs). You should have RPs to cover a high to low flow water levels. These points will also be referred to as your OG (outside gauge) points. Install wedge bolt anchors at each of these locations. Your pad with pressure transducer mounted to it will also have RPs. The transducer is referred to as your IG (inside gauge) point.
+Select reference points to record water levels (tape-downs). You should have RPs to cover a high to low flow water levels. These points will also be referred to as your OG (outside gauge) points. Install wedge bolt anchors at each of these locations. Your pad with pressure transducer mounted to it will also have RPs. The transducer is referred to as your IG (inside gage) point.
  
 <br>
 <br>
@@ -591,7 +591,11 @@ If the error is within allowable tolerances continue with all elevations at the 
 <br>
 <br>
 <br>
+### Transect SOPs <a name="subparagraph20"></a>
 
+<br>
+<br>
+<br>
 #### Selecting a transect Site 
 
 Transect site should be in a free flowing run, straight with uniform unobstructed flow.
