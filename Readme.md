@@ -600,9 +600,6 @@ Transect site should be in a free flowing run, straight with uniform unobstructe
 There should not be any side channels, so that all the water flows through the main channel. 
 Avoid pools, do not select areas where there is excess woody debris or large boulders. These characteristics can disturb flow creating turbulence, eddies and slack water. Be conscious of how the flow is affected by tributaries and if you want to include tributary discharge in your measurement. 
 
-#### Stream Channel Reference Sites
-The purpose of this section is to establish a permanent, benchmark reference site.
-
 
 
 #### Recording Discharge Measurements
